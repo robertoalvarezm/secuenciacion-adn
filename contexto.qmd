@@ -1,0 +1,118 @@
+---
+title: "Contexto: El Proyecto Genoma Humano"
+subtitle: "El hito histórico que desencadenó la carrera por secuenciar el genoma humano"
+---
+
+## El Momento que Cambió la Biología
+
+Cuando el Proyecto Genoma Humano (PGH) publicó su borrador inicial en 2001, el Presidente Bill Clinton lo llamó **"el mapa más maravilloso jamás producido por la humanidad"**. Tras más de diez años de trabajo y un costo estimado de $3 mil millones de dólares, el proyecto había producido una secuencia casi completa del genoma humano.
+
+::: {.stat-row}
+::: {.stat-box}
+::: {.big}
+1990
+:::
+::: {.label}
+Año de inicio del Proyecto Genoma Humano
+:::
+:::
+::: {.stat-box}
+::: {.big}
+2001
+:::
+::: {.label}
+Publicación del primer borrador
+:::
+:::
+::: {.stat-box}
+::: {.big}
+$3 B
+:::
+::: {.label}
+Costo estimado total (USD)
+:::
+:::
+::: {.stat-box}
+::: {.big}
+3,200 M
+:::
+::: {.label}
+Pares de bases en el genoma humano
+:::
+:::
+:::
+
+## La Guerra Genómica
+
+El PGH fue financiado por gobiernos de EE. UU., Reino Unido, Francia, Alemania, Japón y China. En paralelo, Craig Venter fundó **Celera Genomics** con la ambición de secuenciar el genoma usando *shotgun sequencing*. Ambas instituciones publicaron sus resultados simultáneamente en 2001 — HGP en *Nature*, Celera en *Science*.
+
+::: {.callout-note}
+## 💡 Un detalle olvidado
+El "genoma humano" que publicó Celera en 2001 estaba compuesto principalmente del ADN del propio Craig Venter. Básicamente, publicó su propio manual de instrucciones genético como representante de la humanidad.
+:::
+
+Tony Blair predijo que este mapa produciría **"una revolución en la ciencia médica cuyas implicaciones superan incluso el descubrimiento de los antibióticos"** — predicción que ha resultado debatible.
+
+---
+
+## La Revolución del Costo
+
+::: {.stat-row}
+::: {.stat-box}
+::: {.big}
+100,000×
+:::
+::: {.label}
+Reducción del costo en 20 años
+:::
+:::
+::: {.stat-box}
+::: {.big}
+~$500
+:::
+::: {.label}
+Costo actual por genoma completo
+:::
+:::
+::: {.stat-box}
+::: {.big}
+$0.006
+:::
+::: {.label}
+Por megabase (millón de letras) de ADN
+:::
+:::
+:::
+
+Esta reducción fue impulsada por tres factores:
+
+1. **Nuevas químicas de secuenciación** — Los métodos NGS reemplazaron a Sanger para secuenciación masiva.
+2. **Métodos computacionales** — Algoritmos para ensamblar millones de lecturas cortas.
+3. **Hardware eficiente** — Máquinas comerciales que procesan millones de secuencias en paralelo.
+
+::: {.callout-important}
+## 📊 La Ley de Moore de la Genómica
+La reducción de costos en secuenciación **superó con creces** a la Ley de Moore (~1,000× en ese período). La secuenciación mejoró ~**100,000 veces**. Es posiblemente la mejora tecnológica más acelerada en la historia de las ciencias biológicas.
+:::
+
+## Video: Historia del Proyecto Genoma Humano
+
+```{=html}
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/SlNpRThS9t8"
+  title="Historia del Proyecto Genoma Humano"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
+<p class="video-caption">El Proyecto Genoma Humano — Historia y legado</p>
+```
+
+## Los Cinco Métodos
+
+::: {.method-grid}
+<a href="sanger.qmd" class="method-card"><div class="num">01</div><div class="name">Sanger</div><div class="year">1977</div></a>
+<a href="pirosecuenciacion.qmd" class="method-card"><div class="num">02</div><div class="name">454 Pyro</div><div class="year">2005</div></a>
+<a href="illumina.qmd" class="method-card"><div class="num">03</div><div class="name">Illumina</div><div class="year">2006</div></a>
+<a href="pacbio.qmd" class="method-card"><div class="num">04</div><div class="name">PacBio</div><div class="year">2011</div></a>
+<a href="nanoporos.qmd" class="method-card"><div class="num">05</div><div class="name">Nanoporos</div><div class="year">~2015</div></a>
+:::

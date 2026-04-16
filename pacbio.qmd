@@ -1,0 +1,169 @@
+---
+title: "04 · PacBio SMRT Sequencing"
+subtitle: "Secuenciación de molécula única en tiempo real — lecturas ultra-largas (2011)"
+---
+
+::: {.method-header}
+::: {.big-num}
+04
+:::
+::: {.info}
+**PacBio SMRT Sequencing** · 2011 · Single Molecule Real Time · >10,000 pb por lectura
+:::
+:::
+
+## ¿Por qué Molécula Única?
+
+La secuenciación por síntesis (Illumina) requiere **amplificación repetida**, lo que introduce errores, crea sesgos y limita la longitud de lectura. Los métodos de molécula única prometían secuenciar ADN con mínimo sesgo y lecturas mucho más largas.
+
+---
+
+## La Tecnología ZMW
+
+Todo comenzó en 2003 con un problema de física en Cornell.
+
+Los biofísicos **Watt Webb** y el ingeniero **Harold Craighead** crearon los **Zero-Mode Waveguides (ZMWs)**: pequeños orificios cilíndricos nanométricos en una película metálica, lo suficientemente pequeños para albergar **una sola molécula de ADN polimerasa**.
+
+::: {.callout-note}
+## 🔬 ¿Qué es un ZMW?
+Un ZMW es tan pequeño que las longitudes de onda de luz visibles **no pueden propagarse** a través de él (de ahí "zero-mode"). Solo existe campo evanescente en su base, limitando el volumen de detección a ~20 zeptolitros. Esto elimina la fluorescencia de fondo de los nucleótidos en solución, permitiendo detectar flashes individuales.
+:::
+
+---
+
+## Historia
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.timeline-year}
+2003
+:::
+::: {.timeline-title}
+Creación de los ZMWs en Cornell
+:::
+::: {.timeline-desc}
+Webb y Craighead crean los Zero-Mode Waveguides. Demuestran detección de incorporación de nucleótidos fluorescentes individuales.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2004
+:::
+::: {.timeline-title}
+Fundación de Pacific Biosciences (PacBio)
+:::
+::: {.timeline-desc}
+Se funda PacBio para desarrollar la tecnología ZMW como plataforma de secuenciación comercial.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2009
+:::
+::: {.timeline-title}
+Publicación de la técnica completa
+:::
+::: {.timeline-desc}
+PacBio publica la técnica de secuenciación SMRT completa. Los fluoróforos se desprenden al incorporarse cada nucleótido, evitando acumulación de señal.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2010
+:::
+::: {.timeline-title}
+Template SMRTbell: rolling-circle amplification
+:::
+::: {.timeline-desc}
+El ADN bicatenario se liga a dos adaptadores monocatenarios creando una molécula **circular**. Esto permite secuenciar la misma molécula múltiples veces, reduciendo significativamente las tasas de error.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2011
+:::
+::: {.timeline-title}
+Lanzamiento comercial: RS sequencer
+:::
+::: {.timeline-desc}
+Primer secuenciador SMRT comercial. Lecturas iniciales de algunos miles de bases; hoy superan los 25,000 pb.
+:::
+:::
+
+:::
+
+---
+
+## ¿Cómo Funciona SMRT?
+
+1. **Preparar el SMRTbell** — ADN bicatenario + adaptadores monocatenarios → molécula circular.
+2. **Cargar en el SMRT Cell** — El chip contiene millones de ZMWs. La ADN polimerasa queda anclada en el fondo de cada ZMW.
+3. **Nucleótidos fluorescentes** — Los 4 dNTPs están marcados con fluoróforos de colores diferentes. Los fluoróforos se **desprenden durante la incorporación**.
+4. **Detección en tiempo real** — Al incorporarse cada nucleótido, su fluoróforo emite un flash antes de desprenderse. La cámara registra el color.
+5. **Rolling-circle** — La polimerasa continúa dando vueltas en la molécula circular, secuenciando la misma secuencia múltiples veces.
+6. **Corrección de errores** — Las múltiples pasadas permiten corregir errores por consenso (HiFi reads: >99.9% de precisión).
+
+::: {.callout-tip}
+## 🔄 La Polimerasa Corre en Círculos
+Literalmente. La ADN polimerasa lee la misma molécula de ADN dando vueltas repetidas — como un disco rayado. El consenso de múltiples pasadas elimina errores individuales. La repetición compulsiva como estrategia de calidad.
+:::
+
+---
+
+## Video: PacBio SMRT
+
+```{=html}
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/NHCJ8PtYCFc"
+  title="PacBio SMRT Sequencing Explained"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
+<p class="video-caption">PacBio — Explicación del proceso SMRT y los Zero-Mode Waveguides</p>
+```
+
+---
+
+## Ventajas y Aplicaciones
+
+::: {.two-col}
+
+::: {.info-box .pro}
+#### ✅ Genomas repetitivos
+Múltiples copias del mismo gen, repeticiones largas y variaciones estructurales que requieren lecturas que "abarquen" la región completa.
+:::
+
+::: {.info-box .pro}
+#### ✅ Variaciones estructurales
+Grandes inserciones o deleciones no visibles en lecturas cortas de Illumina.
+:::
+
+::: {.info-box .pro}
+#### ✅ Ensamblaje de novo
+Genomas de referencia de alta calidad que requieren lecturas largas para resolver regiones complejas.
+:::
+
+::: {.info-box .note}
+#### 🔗 Complemento de Illumina
+En la práctica: Illumina para alta cobertura y precisión, PacBio para resolver zonas complejas con lecturas largas.
+:::
+
+:::
+
+---
+
+## Resumen
+
+| Característica | Valor |
+|----------------|-------|
+| Año comercial | 2011 (RS sequencer) |
+| Longitud de lectura | >10,000 pb (hoy >25,000) |
+| Precisión (HiFi) | >99.9% |
+| Paralelismo | Medio |
+| Requiere amplificación | No (molécula única) |
+| Fortaleza | Lecturas ultra-largas, genomas complejos |

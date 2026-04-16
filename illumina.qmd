@@ -1,0 +1,180 @@
+---
+title: "03 · Illumina — Secuenciación por Síntesis"
+subtitle: "El método que domina ~80% del mercado mundial de NGS (2006)"
+---
+
+::: {.method-header}
+::: {.big-num}
+03
+:::
+::: {.info}
+**Illumina — Sequencing by Synthesis (SBS)** · 2006 · ~80% del mercado NGS · Lecturas cortas de alta precisión
+:::
+:::
+
+::: {.stat-row}
+::: {.stat-box}
+::: {.big}
+~80%
+:::
+::: {.label}
+Participación en el mercado NGS global
+:::
+:::
+::: {.stat-box}
+::: {.big}
+50–300 pb
+:::
+::: {.label}
+Longitud de lectura por ciclo
+:::
+:::
+::: {.stat-box}
+::: {.big}
+$400,000
+:::
+::: {.label}
+Precio del primer Genome Analyzer (2006)
+:::
+:::
+:::
+
+---
+
+## Historia: De Solexa a la Dominancia Global
+
+A mediados de los 1990s, los bioquímicos **David Klenerman y Shankar Balasubramanian** de la Universidad de Cambridge desarrollaron **terminadores reversibles** — nucleótidos modificados marcados con cuatro fluoróforos de colores diferentes. La gran intuición: sintetizar la cadena complementaria de ADN de a **una base a la vez**, identificando cada nucleótido por el color de su fluoróforo.
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.timeline-year}
+1998
+:::
+::: {.timeline-title}
+Fundación de Solexa
+:::
+::: {.timeline-desc}
+Klenerman y Balasubramanian fundan Solexa para llevar la tecnología SBS al mercado.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2004
+:::
+::: {.timeline-title}
+Solexa adquiere la secuenciación de colonias
+:::
+::: {.timeline-desc}
+Detectar fluorescencia de una sola molécula resultó difícil. Solexa adquiere los derechos IP de la secuenciación de colonias (Pascal Mayer & Laurent Farinelli, Francia), que resolvía el problema de señal débil.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2006
+:::
+::: {.timeline-title}
+Genome Analyzer: $400,000 USD
+:::
+::: {.timeline-desc}
+Primer instrumento comercial de Solexa.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2007
+:::
+::: {.timeline-title}
+Illumina adquiere Solexa
+:::
+::: {.timeline-desc}
+La empresa estadounidense de genómica Illumina adquiere Solexa. El método SBS lleva desde entonces la marca Illumina.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2008
+:::
+::: {.timeline-title}
+Primer genoma completo por short reads
+:::
+::: {.timeline-desc}
+Illumina publica demostración de secuenciación de genomas completos mediante lecturas cortas ensambladas computacionalmente. Acuñan el término "Sequencing by Synthesis".
+:::
+:::
+
+:::
+
+---
+
+## ¿Cómo Funciona Illumina SBS?
+
+### Etapa 1: Preparación del Flow Cell
+
+1. **Fragmentación** — El ADN molde se fragmenta en ~200–500 pb. Se añaden secuencias *adaptadoras* a los extremos.
+2. **Unión al flow cell** — Los fragmentos se pasan sobre el chip (que tiene una "pradera" de secuencias cortas). Los adaptadores se unen a la pradera.
+3. **Bridge Amplification** — El extremo libre de cada hebra se dobla y se une a una secuencia adyacente, formando un puente. Se amplifica repetidamente.
+4. **Formación de clusters** — Cada fragmento se amplifica ~1,000 veces, creando *clusters* de hebras idénticas. Esto amplifica la señal fluorescente hasta hacerla detectable.
+
+### Etapa 2: Secuenciación
+
+1. **Terminadores fluorescentes** — Se añaden terminadores reversibles: 4 bases, 4 colores.
+2. **Incorporación de un nucleótido** — La ADN polimerasa incorpora exactamente *un* nucleótido. El terminador bloquea la adición de más bases.
+3. **Imagen del chip** — Se toma una fotografía completa del chip. El color de cada cluster revela qué base fue incorporada.
+4. **Eliminación del bloqueo** — Los bloqueadores se eliminan químicamente.
+5. **Ciclos** — Los pasos 2–4 se repiten cientos de veces.
+6. **Ensamblaje computacional** — Las lecturas cortas se ensamblan por *paired-end analysis* para reconstruir la secuencia completa.
+
+---
+
+## Video: Illumina Sequencing by Synthesis
+
+```{=html}
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/fCd6B5HRaZ8"
+  title="Illumina Sequencing by Synthesis"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
+<p class="video-caption">Animación oficial de Illumina del proceso de Sequencing by Synthesis (SBS)</p>
+```
+
+---
+
+## Aplicaciones
+
+| Aplicación | Descripción |
+|------------|-------------|
+| **Nuevos genomas de referencia** | El tomate, organismos agrícolas, species nuevas |
+| **Cuantificación CRISPR** | Mide el % de edición génica con alta cobertura |
+| **ADN ancestral** | Fragmentos cortos degradados se leen con alta exactitud |
+| **Genoma Neandertal** | Completó el proyecto junto con 454 |
+| **Arqueogenética** | Cuerpos de 10,000 años; migraciones neolíticas |
+| **Epidemiología** | Vigilancia genómica de patógenos (SARS-CoV-2) |
+
+::: {.callout-note}
+## 🔬 La paradoja del ADN antiguo
+Las lecturas *cortas* de Illumina, consideradas una limitación técnica, resultaron perfectas para ADN ancestral degradado que naturalmente se fragmenta en piezas pequeñas. Una "debilidad" que se convirtió en fortaleza.
+:::
+
+---
+
+## Resumen
+
+| Característica | Valor |
+|----------------|-------|
+| Año comercial | 2006 (Genome Analyzer) |
+| Longitud de lectura | 50–300 pb |
+| Precisión | Muy alta (>99.9%) |
+| Paralelismo | Muy alto |
+| Cuota de mercado NGS | ~80% |
+| Debilidad | Lecturas cortas (no resuelve regiones repetitivas largas) |
+
+::: {.callout-tip}
+## 🔗 Complementariedad con PacBio
+En proyectos de genómica de alta calidad se usa **Illumina + PacBio**: Illumina para cobertura y precisión masiva, PacBio para resolver las zonas complejas con lecturas largas.
+:::

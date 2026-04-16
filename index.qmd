@@ -1,0 +1,181 @@
+---
+title: "Guía Visual de la Secuenciación del ADN"
+subtitle: "Cómo 'leer' los ácidos nucleicos: de Sanger a los nanoporos"
+author: "Roberto Álvarez"
+page-layout: full
+toc: false
+---
+
+:::: hero
+::: badge-hero
+Historia de las técnicas de secuenciación
+:::
+
+# 🧬 Secuenciación del ADN {.unnumbered}
+
+Una guía completa sobre los cinco métodos que transformaron la genómica moderna. Desde el trabajo de Fred Sanger en 1977 hasta los nanoporos portátiles del siglo XXI.
+
+*Basado en: Asimov Press & Evan DeTurk (2026)*
+::::
+
+## Los Cinco Métodos Fundamentales
+
+:::::::::::::::::: method-grid
+<a href="sanger.qmd" class="method-card">
+
+::: num
+01
+:::
+
+::: name
+Secuenciación de Sanger
+:::
+
+::: year
+1977 — Gold Standard
+:::
+
+</a> <a href="pirosecuenciacion.qmd" class="method-card">
+
+::: num
+02
+:::
+
+::: name
+Piroseucenciación 454
+:::
+
+::: year
+2005 — Primer NGS
+:::
+
+</a> <a href="illumina.qmd" class="method-card">
+
+::: num
+03
+:::
+
+::: name
+Illumina (SBS)
+:::
+
+::: year
+2006 — \~80% del mercado
+:::
+
+</a> <a href="pacbio.qmd" class="method-card">
+
+::: num
+04
+:::
+
+::: name
+PacBio SMRT
+:::
+
+::: year
+2011 — Lecturas largas
+:::
+
+</a> <a href="nanoporos.qmd" class="method-card">
+
+::: num
+05
+:::
+
+::: name
+Nanoporos (ONT)
+:::
+
+::: year
+\~2015 — Portátil
+:::
+
+</a>
+::::::::::::::::::
+
+## El Impacto en Números
+
+::::::::::::::: stat-row
+::::: stat-box
+::: big
+\$3 B
+:::
+
+::: label
+Costo inicial del Proyecto Genoma Humano (USD)
+:::
+:::::
+
+::::: stat-box
+::: big
+\~\$500
+:::
+
+::: label
+Costo actual de secuenciar un genoma completo
+:::
+:::::
+
+::::: stat-box
+::: big
+100,000×
+:::
+
+::: label
+Reducción de costos en solo 20 años
+:::
+:::::
+
+::::: stat-box
+::: big
+5,386
+:::
+
+::: label
+Nucleótidos del primer genoma secuenciado (PhiX174, 1977)
+:::
+:::::
+:::::::::::::::
+
+## Video Introductorio
+
+::: callout-note
+## 🎬 ¿Por qué importa la secuenciación del ADN?
+
+Este video del NHGRI introduce el contexto histórico y la importancia del Proyecto Genoma Humano.
+:::
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AhsIF-cmoQQ?si=QVCNS_I5CLv5yME3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+<p class="video-caption">
+
+Fuente: National Human Genome Research Institute (NHGRI) · YouTube
+
+</p>
+:::
+
+## Estructura de esta Guía
+
+| Sección | Contenido |
+|---------------------------------|---------------------------------------|
+| [Contexto](contexto.qmd) | Proyecto Genoma Humano y la revolución del costo |
+| [Sanger](sanger.qmd) | Fred Sanger, Ray Wu, Plus-Minus, Terminación de Cadena |
+| [454](pirosecuenciacion.qmd) | Piroseucenciación: del laboratorio de Nyren a 454 Life Sciences |
+| [Illumina](illumina.qmd) | Solexa, flow cell, bridge amplification, dominancia del mercado |
+| [PacBio](pacbio.qmd) | ZMWs, SMRTbell, lecturas largas |
+| [Nanoporos](nanoporos.qmd) | α-hemolisina, Oxford Nanopore Technologies, MinION |
+| [Comparación](comparacion.qmd) | Tabla comparativa y línea de tiempo completa |
+| [Curiosidades](curiosidades.qmd) | 10 datos sorprendentes y rarísimos |
+| [Referencias](referencias.qmd) | Fuentes primarias y recursos adicionales |
+
+::: callout-tip
+## 💡 Consejo de lectura
+
+Usa el menú de navegación superior para explorar cada método. Cada página incluye vídeos explicativos, diagramas descriptivos y datos curiosos relevantes.
+:::

@@ -1,0 +1,443 @@
+[
+  {
+    "objectID": "referencias.html",
+    "href": "referencias.html",
+    "title": "Referencias y Recursos",
+    "section": "",
+    "text": "Asimov Press & Evan DeTurk (2026). “A Visual Guide to DNA Sequencing: How to ‘read’ nucleic acids, from Sanger to nanopores.” Asimov Press, Febrero 26, 2026."
+  },
+  {
+    "objectID": "referencias.html#fuente-principal",
+    "href": "referencias.html#fuente-principal",
+    "title": "Referencias y Recursos",
+    "section": "",
+    "text": "Asimov Press & Evan DeTurk (2026). “A Visual Guide to DNA Sequencing: How to ‘read’ nucleic acids, from Sanger to nanopores.” Asimov Press, Febrero 26, 2026."
+  },
+  {
+    "objectID": "referencias.html#artículos-científicos-fundacionales",
+    "href": "referencias.html#artículos-científicos-fundacionales",
+    "title": "Referencias y Recursos",
+    "section": "Artículos Científicos Fundacionales",
+    "text": "Artículos Científicos Fundacionales\n\nSecuenciación de Sanger\n\nSanger, F. & Coulson, A.R. (1975). A rapid method for determining sequences in DNA by primed synthesis with DNA polymerase. Journal of Molecular Biology, 94(3), 441–448.\nSanger, F., Nicklen, S. & Coulson, A.R. (1977). DNA sequencing with chain-terminating inhibitors. Proceedings of the National Academy of Sciences, 74(12), 5463–5467.\nWu, R. & Taylor, E. (1971). Nucleotide sequence analysis of DNA. II. Complete nucleotide sequence of the cohesive ends of bacteriophage λ DNA. Journal of Molecular Biology, 57(3), 491–511.\nMaxam, A.M. & Gilbert, W. (1977). A new method for sequencing DNA. PNAS, 74(2), 560–564.\n\n\n\nPiroseucenciación 454\n\nNyren, P. & Lundin, A. (1985). Enzymatic method for continuous monitoring of inorganic pyrophosphate synthesis. Analytical Biochemistry, 151(2), 504–509.\nRonaghi, M., Uhlen, M. & Nyren, P. (1998). A sequencing method based on real-time pyrophosphate. Science, 281(5375), 363–365.\nMargulies, M. et al. (2005). Genome sequencing in microfabricated high-density picolitre reactors. Nature, 437, 376–380. (Paper fundacional de 454 Life Sciences)\n\n\n\nIllumina / Secuenciación por Síntesis\n\nBentley, D.R. et al. (2008). Accurate whole human genome sequencing using reversible terminator chemistry. Nature, 456, 53–59.\nTurcatti, G. et al. (2008). A new class of cleavable fluorescent nucleotides: synthesis and optimization as reversible terminators for DNA sequencing by synthesis. Nucleic Acids Research, 36(4), e25.\n\n\n\nPacBio SMRT\n\nLevene, M.J. et al. (2003). Zero-mode waveguides for single-molecule analysis at high concentrations. Science, 299(5607), 682–686. (Paper de los ZMWs de Webb y Craighead)\nEid, J. et al. (2009). Real-time DNA sequencing from single polymerase molecules. Science, 323(5910), 133–138. (Paper fundacional de PacBio SMRT)\n\n\n\nNanoporos\n\nKasianowicz, J.J., Brandin, E., Branton, D. & Deamer, D.W. (1996). Characterization of individual polynucleotide molecules using a membrane channel. PNAS, 93(24), 13770–13773.\nBayley, H. (2006). Sequencing single molecules of DNA. Current Opinion in Chemical Biology, 10(6), 628–637.\nLaver, T. et al. (2015). Assessing the performance of the Oxford Nanopore Technologies MinION. Biomolecular Detection and Quantification, 3, 1–8.\n\n\n\nProyecto Genoma Humano\n\nLander, E.S. et al. (International Human Genome Sequencing Consortium) (2001). Initial sequencing and analysis of the human genome. Nature, 409, 860–921.\nVenter, J.C. et al. (2001). The sequence of the human genome. Science, 291(5507), 1304–1351.\nNurk, S. et al. (2022). The complete sequence of a human genome. Science, 376(6588), 44–53. (T2T — Genoma humano verdaderamente completo, 2021)"
+  },
+  {
+    "objectID": "referencias.html#revisiones-y-artículos-de-perspectiva",
+    "href": "referencias.html#revisiones-y-artículos-de-perspectiva",
+    "title": "Referencias y Recursos",
+    "section": "Revisiones y Artículos de Perspectiva",
+    "text": "Revisiones y Artículos de Perspectiva\n\nHeather, J.M. & Chain, B. (2016). The sequence of sequencers: The history of sequencing DNA. Genomics, 107(1), 1–8. (Excelente revisión histórica completa)\nShendure, J. et al. (2017). DNA sequencing at 40: past, present and future. Nature, 550, 345–353.\nAmarasinghe, S.L. et al. (2020). Opportunities and challenges in long-read sequencing data analysis. Genome Biology, 21, 30."
+  },
+  {
+    "objectID": "referencias.html#recursos-en-línea",
+    "href": "referencias.html#recursos-en-línea",
+    "title": "Referencias y Recursos",
+    "section": "Recursos en Línea",
+    "text": "Recursos en Línea\n\nInstitucionales\n\n\n\nRecurso\nURL\nDescripción\n\n\n\n\nNHGRI Learning Center\ngenome.gov\nFichas informativas del Instituto Nacional del Genoma Humano\n\n\nEnsembl Genome Browser\nensembl.org\nExplorador de genomas con datos de Illumina y otros métodos\n\n\nPacBio Documentation\npacb.com\nDocumentación técnica del SMRT sequencing\n\n\nOxford Nanopore Docs\nnanoporetech.com\nDocumentación y recursos de ONT\n\n\n\n\n\nVideos Recomendados\n\n\n\n\n\n\n\n\nVideo\nCanal\nDescripción\n\n\n\n\niBiology DNA Sequencing Series\nYouTube/iBiology\nSerie completa de alta calidad académica\n\n\nIllumina SBS Animation\nYouTube/Illumina\nAnimación oficial del proceso SBS\n\n\nPacBio SMRT Explanation\nYouTube/PacBio\nExplicación oficial del SMRT sequencing\n\n\nONT MinION Overview\nYouTube/Oxford Nanopore\nIntroducción al MinION y secuenciación por nanoporos"
+  },
+  {
+    "objectID": "referencias.html#libros-de-texto-recomendados",
+    "href": "referencias.html#libros-de-texto-recomendados",
+    "title": "Referencias y Recursos",
+    "section": "Libros de Texto Recomendados",
+    "text": "Libros de Texto Recomendados\n\nAlberts et al. — Molecular Biology of the Cell (7th ed.) — Capítulos sobre tecnología de secuenciación\nLewin’s Genes (12th ed.) — Fundamentos de genética molecular con secciones NGS\nGriffiths et al. — Introduction to Genetic Analysis — Accesible para nivel maestría\nGoodwin, McPherson & McCombie (2016) — Coming of age: ten years of next-generation sequencing technologies. Nature Reviews Genetics, 17, 333–351"
+  },
+  {
+    "objectID": "referencias.html#nota-sobre-esta-guía",
+    "href": "referencias.html#nota-sobre-esta-guía",
+    "title": "Referencias y Recursos",
+    "section": "Nota sobre Esta Guía",
+    "text": "Nota sobre Esta Guía\n\n\n\n\n\n\n📌 Acerca de las fuentes\n\n\n\nEsta guía académica está basada principalmente en el artículo de Asimov Press & Evan DeTurk (2026), complementado con los artículos científicos originales y revisiones peer-reviewed citados arriba. Toda afirmación factual puede ser rastreada a una fuente primaria. Se recomienda consultar las fuentes primarias para uso académico formal."
+  },
+  {
+    "objectID": "comparacion.html",
+    "href": "comparacion.html",
+    "title": "Comparación de los 5 Métodos",
+    "section": "",
+    "text": "Método\nAño\nLongitud de lectura\nPrecisión\nParalelismo\nFortaleza\n\n\n\n\nSanger\n1986\n~1,000 pb\nMuy alta\nBajo\nPrecisión, gold standard\n\n\n454 Pyro\n2005\n~700 pb\nAlta\nMedio\nPrimer NGS, sin geles\n\n\nIllumina (SBS)\n2006\n50–300 pb\nMuy alta\nMuy alto\nCosto bajo, cobertura masiva\n\n\nPacBio SMRT\n2011\n&gt;10,000 pb\nAlta (consenso)\nMedio\nLecturas ultra-largas\n\n\nNanoporos (ONT)\n~2015\nIlimitada*\nMedia-Alta\nAlto\nPortátil, tiempo real\n\n\n\n*Oxford Nanopore puede leer moléculas cromosómicas completas. pb = pares de bases."
+  },
+  {
+    "objectID": "comparacion.html#tabla-comparativa",
+    "href": "comparacion.html#tabla-comparativa",
+    "title": "Comparación de los 5 Métodos",
+    "section": "",
+    "text": "Método\nAño\nLongitud de lectura\nPrecisión\nParalelismo\nFortaleza\n\n\n\n\nSanger\n1986\n~1,000 pb\nMuy alta\nBajo\nPrecisión, gold standard\n\n\n454 Pyro\n2005\n~700 pb\nAlta\nMedio\nPrimer NGS, sin geles\n\n\nIllumina (SBS)\n2006\n50–300 pb\nMuy alta\nMuy alto\nCosto bajo, cobertura masiva\n\n\nPacBio SMRT\n2011\n&gt;10,000 pb\nAlta (consenso)\nMedio\nLecturas ultra-largas\n\n\nNanoporos (ONT)\n~2015\nIlimitada*\nMedia-Alta\nAlto\nPortátil, tiempo real\n\n\n\n*Oxford Nanopore puede leer moléculas cromosómicas completas. pb = pares de bases."
+  },
+  {
+    "objectID": "comparacion.html#cuándo-usar-cada-método",
+    "href": "comparacion.html#cuándo-usar-cada-método",
+    "title": "Comparación de los 5 Métodos",
+    "section": "¿Cuándo Usar Cada Método?",
+    "text": "¿Cuándo Usar Cada Método?\n\n\n🎯 Usar Sanger cuando:\n\nSe necesita verificar un fragmento específico corto\nDiagnóstico clínico de mutaciones puntuales\nControl de calidad de construcciones plasmídicas\nPresupuesto limitado para pocas secuencias\n\n\n\n🎯 Usar Illumina cuando:\n\nSecuenciación de genomas completos a bajo costo\nRNA-seq, ChIP-seq, ATAC-seq\nCuantificación de edición génica (CRISPR)\nADN antiguo/degradado\n\n\n\n🎯 Usar PacBio cuando:\n\nGenomas con muchas repeticiones\nResolución de variaciones estructurales\nEnsamblaje de novo de genomas de referencia\nDetección de modificaciones de bases (metilación)\n\n\n\n🎯 Usar Nanoporos cuando:\n\nTrabajo en campo (sin laboratorio disponible)\nSe requiere respuesta inmediata\nSecuenciación directa de ARN\nLecturas ultra-largas (cromosomas completos)"
+  },
+  {
+    "objectID": "comparacion.html#línea-de-tiempo-70-años-de-secuenciación-del-adn",
+    "href": "comparacion.html#línea-de-tiempo-70-años-de-secuenciación-del-adn",
+    "title": "Comparación de los 5 Métodos",
+    "section": "Línea de Tiempo: 70 Años de Secuenciación del ADN",
+    "text": "Línea de Tiempo: 70 Años de Secuenciación del ADN\n\n\n\n1955\n\n\nSanger descifra la secuencia de la insulina\n\n\nFred Sanger determina la secuencia completa de aminoácidos de la insulina. Gana el Nobel en 1958. Sienta las bases del pensamiento secuencial en biología molecular.\n\n\n\n\n1965\n\n\nHolley secuencia el ARNt de alanina\n\n\nRobert Holley (Cornell) reporta la secuencia completa de 77 nucleótidos del ARN de transferencia de alanina, superando a Sanger en la secuenciación de ARN.\n\n\n\n\n1970\n\n\nRay Wu: primer método de secuenciación de ADN\n\n\nEl bioquímico de Cornell publica el primer método para leer secciones específicas de genomas de bacteriófagos, usando primers por primera vez.\n\n\n\n\n1977\n\n\nTerminación de cadena + PhiX174 completo\n\n\nSanger desarrolla el método con ddNTPs y secuencia el primer genoma completo: φX174 con 5,386 nucleótidos.\n\n\n\n\n1986\n\n\nABI 370A: primer secuenciador fluorescente automático\n\n\nLeroy Hood (Caltech) reemplaza la radiactividad con fluorescencia. Applied Biosystems lanza el ABI 370A a $92,500 USD. Inicio de la automatización.\n\n\n\n\n1990–2003\n\n\nProyecto Genoma Humano\n\n\n13 años de trabajo usando principalmente Sanger sequencing. Costo: ~$3 billones USD. Primer borrador en 2001, secuencia completa en 2003.\n\n\n\n\n2005\n\n\n454 GS20: primer NGS comercial\n\n\n454 Life Sciences lanza el GS20 a $500,000 USD. Marca el inicio de la era NGS.\n\n\n\n\n2006\n\n\nIllumina Genome Analyzer: $400,000 USD\n\n\nSolexa lanza el primer secuenciador de SBS. Inicia el camino hacia la dominancia del ~80% del mercado NGS.\n\n\n\n\n2011\n\n\nPacBio RS: primer SMRT sequencer\n\n\nPacific Biosciences lanza el RS. Lecturas de miles de bases abren la era de long reads.\n\n\n\n\n~2015\n\n\nOxford Nanopore MinION: secuenciación portátil\n\n\nONT lanza el MinION. Un secuenciador del tamaño de una USB para uso en campo, en el espacio o en zonas de brote epidémico.\n\n\n\n\n2021\n\n\nGenoma humano verdaderamente completo (T2T)\n\n\nEl Consorcio T2T publica la primera secuencia verdaderamente completa del genoma humano, usando PacBio HiFi + Nanoporos. Las regiones irresolubles para Illumina finalmente se leen."
+  },
+  {
+    "objectID": "comparacion.html#video-la-historia-completa",
+    "href": "comparacion.html#video-la-historia-completa",
+    "title": "Comparación de los 5 Métodos",
+    "section": "Video: La Historia Completa",
+    "text": "Video: La Historia Completa\n\n  \n\nLa historia de la secuenciación del ADN — de Sanger a los nanoporos"
+  },
+  {
+    "objectID": "pacbio.html",
+    "href": "pacbio.html",
+    "title": "04 · PacBio SMRT Sequencing",
+    "section": "",
+    "text": "04\n\n\nPacBio SMRT Sequencing · 2011 · Single Molecule Real Time · &gt;10,000 pb por lectura"
+  },
+  {
+    "objectID": "pacbio.html#por-qué-molécula-única",
+    "href": "pacbio.html#por-qué-molécula-única",
+    "title": "04 · PacBio SMRT Sequencing",
+    "section": "¿Por qué Molécula Única?",
+    "text": "¿Por qué Molécula Única?\nLa secuenciación por síntesis (Illumina) requiere amplificación repetida, lo que introduce errores, crea sesgos y limita la longitud de lectura. Los métodos de molécula única prometían secuenciar ADN con mínimo sesgo y lecturas mucho más largas."
+  },
+  {
+    "objectID": "pacbio.html#la-tecnología-zmw",
+    "href": "pacbio.html#la-tecnología-zmw",
+    "title": "04 · PacBio SMRT Sequencing",
+    "section": "La Tecnología ZMW",
+    "text": "La Tecnología ZMW\nTodo comenzó en 2003 con un problema de física en Cornell.\nLos biofísicos Watt Webb y el ingeniero Harold Craighead crearon los Zero-Mode Waveguides (ZMWs): pequeños orificios cilíndricos nanométricos en una película metálica, lo suficientemente pequeños para albergar una sola molécula de ADN polimerasa.\n\n\n\n\n\n\n🔬 ¿Qué es un ZMW?\n\n\n\nUn ZMW es tan pequeño que las longitudes de onda de luz visibles no pueden propagarse a través de él (de ahí “zero-mode”). Solo existe campo evanescente en su base, limitando el volumen de detección a ~20 zeptolitros. Esto elimina la fluorescencia de fondo de los nucleótidos en solución, permitiendo detectar flashes individuales."
+  },
+  {
+    "objectID": "pacbio.html#historia",
+    "href": "pacbio.html#historia",
+    "title": "04 · PacBio SMRT Sequencing",
+    "section": "Historia",
+    "text": "Historia\n\n\n\n2003\n\n\nCreación de los ZMWs en Cornell\n\n\nWebb y Craighead crean los Zero-Mode Waveguides. Demuestran detección de incorporación de nucleótidos fluorescentes individuales.\n\n\n\n\n2004\n\n\nFundación de Pacific Biosciences (PacBio)\n\n\nSe funda PacBio para desarrollar la tecnología ZMW como plataforma de secuenciación comercial.\n\n\n\n\n2009\n\n\nPublicación de la técnica completa\n\n\nPacBio publica la técnica de secuenciación SMRT completa. Los fluoróforos se desprenden al incorporarse cada nucleótido, evitando acumulación de señal.\n\n\n\n\n2010\n\n\nTemplate SMRTbell: rolling-circle amplification\n\n\nEl ADN bicatenario se liga a dos adaptadores monocatenarios creando una molécula circular. Esto permite secuenciar la misma molécula múltiples veces, reduciendo significativamente las tasas de error.\n\n\n\n\n2011\n\n\nLanzamiento comercial: RS sequencer\n\n\nPrimer secuenciador SMRT comercial. Lecturas iniciales de algunos miles de bases; hoy superan los 25,000 pb."
+  },
+  {
+    "objectID": "pacbio.html#cómo-funciona-smrt",
+    "href": "pacbio.html#cómo-funciona-smrt",
+    "title": "04 · PacBio SMRT Sequencing",
+    "section": "¿Cómo Funciona SMRT?",
+    "text": "¿Cómo Funciona SMRT?\n\nPreparar el SMRTbell — ADN bicatenario + adaptadores monocatenarios → molécula circular.\nCargar en el SMRT Cell — El chip contiene millones de ZMWs. La ADN polimerasa queda anclada en el fondo de cada ZMW.\nNucleótidos fluorescentes — Los 4 dNTPs están marcados con fluoróforos de colores diferentes. Los fluoróforos se desprenden durante la incorporación.\nDetección en tiempo real — Al incorporarse cada nucleótido, su fluoróforo emite un flash antes de desprenderse. La cámara registra el color.\nRolling-circle — La polimerasa continúa dando vueltas en la molécula circular, secuenciando la misma secuencia múltiples veces.\nCorrección de errores — Las múltiples pasadas permiten corregir errores por consenso (HiFi reads: &gt;99.9% de precisión).\n\n\n\n\n\n\n\n🔄 La Polimerasa Corre en Círculos\n\n\n\nLiteralmente. La ADN polimerasa lee la misma molécula de ADN dando vueltas repetidas — como un disco rayado. El consenso de múltiples pasadas elimina errores individuales. La repetición compulsiva como estrategia de calidad."
+  },
+  {
+    "objectID": "pacbio.html#video-pacbio-smrt",
+    "href": "pacbio.html#video-pacbio-smrt",
+    "title": "04 · PacBio SMRT Sequencing",
+    "section": "Video: PacBio SMRT",
+    "text": "Video: PacBio SMRT\n\n  \n\nPacBio — Explicación del proceso SMRT y los Zero-Mode Waveguides"
+  },
+  {
+    "objectID": "pacbio.html#ventajas-y-aplicaciones",
+    "href": "pacbio.html#ventajas-y-aplicaciones",
+    "title": "04 · PacBio SMRT Sequencing",
+    "section": "Ventajas y Aplicaciones",
+    "text": "Ventajas y Aplicaciones\n\n\n✅ Genomas repetitivos\nMúltiples copias del mismo gen, repeticiones largas y variaciones estructurales que requieren lecturas que “abarquen” la región completa.\n\n\n✅ Variaciones estructurales\nGrandes inserciones o deleciones no visibles en lecturas cortas de Illumina.\n\n\n✅ Ensamblaje de novo\nGenomas de referencia de alta calidad que requieren lecturas largas para resolver regiones complejas.\n\n\n🔗 Complemento de Illumina\nEn la práctica: Illumina para alta cobertura y precisión, PacBio para resolver zonas complejas con lecturas largas."
+  },
+  {
+    "objectID": "pacbio.html#resumen",
+    "href": "pacbio.html#resumen",
+    "title": "04 · PacBio SMRT Sequencing",
+    "section": "Resumen",
+    "text": "Resumen\n\n\n\nCaracterística\nValor\n\n\n\n\nAño comercial\n2011 (RS sequencer)\n\n\nLongitud de lectura\n&gt;10,000 pb (hoy &gt;25,000)\n\n\nPrecisión (HiFi)\n&gt;99.9%\n\n\nParalelismo\nMedio\n\n\nRequiere amplificación\nNo (molécula única)\n\n\nFortaleza\nLecturas ultra-largas, genomas complejos"
+  },
+  {
+    "objectID": "nanoporos.html",
+    "href": "nanoporos.html",
+    "title": "05 · Secuenciación por Nanoporos",
+    "section": "",
+    "text": "05\n\n\nNanoporos (Oxford Nanopore Technologies) · ~2015 · Portátil · Tiempo real · Sin PCR"
+  },
+  {
+    "objectID": "nanoporos.html#qué-es-un-nanoporo",
+    "href": "nanoporos.html#qué-es-un-nanoporo",
+    "title": "05 · Secuenciación por Nanoporos",
+    "section": "¿Qué es un Nanoporo?",
+    "text": "¿Qué es un Nanoporo?\nUn nanoporo es una proteína o lípido con un pequeño orificio en su centro a través del cual puede pasar el ADN. Cuando el ADN pasa mientras fluye una corriente eléctrica, la perturbación de la corriente revela qué base está pasando.\nEl primer nanoporo usado para secuenciación fue la α-hemolisina, una toxina proteica de Staphylococcus aureus.\n\n\n\n\n\n\n🦠 La toxina que secuencia ADN\n\n\n\nLa α-hemolisina es una toxina que S. aureus usa para perforar las membranas de células del huésped y matarlas. Los investigadores la integraron en una membrana artificial y la convirtieron en un sensor de ADN de precisión molecular."
+  },
+  {
+    "objectID": "nanoporos.html#historia",
+    "href": "nanoporos.html#historia",
+    "title": "05 · Secuenciación por Nanoporos",
+    "section": "Historia",
+    "text": "Historia\n\n\n\n1996\n\n\nPrimer concepto — Deamer & Branton\n\n\nDavid Deamer (UC Santa Cruz) y Daniel Branton (Harvard) demuestran que la corriente eléctrica en un nanoporo de α-hemolisina es perturbada diferente por purinas (A, G) vs. pirimidinas (T, C). El principio funciona, pero no discrimina las 4 bases individualmente.\n\n\n\n\n2001\n\n\nMétodo limitado de secuenciación — Bayley\n\n\nHagan Bayley (Texas A&M) demuestra un método de secuenciación limitado: ancla un fragmento de ADN con bases desconocidas al poro y lo compara con sondas para identificar las bases por el grado de perturbación de corriente.\n\n\n\n\n2005\n\n\nResuelven el problema de velocidad\n\n\nBayley (ahora en Oxford) y el Instituto Scripps adicionan estructuras de “horquilla” (hairpin) que bloquean parcialmente el poro y ralentizan el ADN al rango de milisegundos por nucleótido — suficientemente lento para detectarlo.\n\n\n\n\n2005\n\n\nFundación de Oxford Nanopore Technologies (ONT)\n\n\nBayley co-funda ONT para desarrollar y comercializar la tecnología. La empresa integra tecnologías de los laboratorios de Bayley, Deamer, Branton y otros.\n\n\n\n\n~2015\n\n\nMinION: primer secuenciador portátil disponible\n\n\nONT lanza el MinION al público. Un dispositivo del tamaño de una memoria USB que puede secuenciar ADN en cualquier lugar con una laptop."
+  },
+  {
+    "objectID": "nanoporos.html#los-dos-problemas-fundamentales",
+    "href": "nanoporos.html#los-dos-problemas-fundamentales",
+    "title": "05 · Secuenciación por Nanoporos",
+    "section": "Los Dos Problemas Fundamentales",
+    "text": "Los Dos Problemas Fundamentales\n\n\n❌ Problema 1: Velocidad\nEl ADN atraviesa el poro demasiado rápido (microsegundos por nucleótido) para detectarlo confiablemente.\nSolución: Estructuras hairpin + motor proteico (helicasa) que controla la velocidad a ~450 bases/segundo.\n\n\n❌ Problema 2: Diferenciación\nLos primeros nanoporos solo distinguían purinas de pirimidinas, no las 4 bases individualmente.\nSolución: Modificaciones al nanoporo + modelos de deep learning que interpretan las señales de corriente en tiempo real."
+  },
+  {
+    "objectID": "nanoporos.html#cómo-funciona",
+    "href": "nanoporos.html#cómo-funciona",
+    "title": "05 · Secuenciación por Nanoporos",
+    "section": "¿Cómo Funciona?",
+    "text": "¿Cómo Funciona?\n\nMembrana sintética con nanoporo separa dos cámaras con solución electrolítica.\nSe aplica voltaje → corriente iónica fluye a través del poro.\nEl ADN entra al poro guiado por un motor proteico (helicasa) que controla la velocidad.\nCada base bloquea parcialmente el flujo iónico con un patrón único.\nLos electrodos detectan los cambios de corriente con alta resolución temporal.\nBasecalling por redes neuronales traduce los patrones de señal en secuencia de bases en tiempo real.\n\n\n\n\n\n\n\n🤖 IA en el laboratorio\n\n\n\nLa precisión del nanoporo depende críticamente de los algoritmos de basecalling (redes neuronales). La precisión ha pasado de ~85% en las primeras versiones a &gt;99% con los modelos actuales. La secuenciación por nanoporos es imposible sin deep learning."
+  },
+  {
+    "objectID": "nanoporos.html#el-minion-secuenciación-en-cualquier-lugar",
+    "href": "nanoporos.html#el-minion-secuenciación-en-cualquier-lugar",
+    "title": "05 · Secuenciación por Nanoporos",
+    "section": "El MinION: Secuenciación en Cualquier Lugar",
+    "text": "El MinION: Secuenciación en Cualquier Lugar\n\n\n\nCaracterística\nMinION\n\n\n\n\nTamaño\n~10 cm × 3 cm\n\n\nConexión\nUSB a laptop\n\n\nCosto (dispositivo)\n~$1,000 USD\n\n\n\nUsos en campo:\n\n🦠 Brotes de Ébola en África — Secuenciación del virus en tiempo real en el área afectada\n🧊 Antártida — Microorganismos del suelo en condiciones extremas\n🚀 Estación Espacial Internacional — Primer secuenciador usado en el espacio (astronauta Kate Rubins, 2016)\n🌾 Agricultura — Detección de plagas en campo sin enviar muestras al laboratorio"
+  },
+  {
+    "objectID": "nanoporos.html#video-oxford-nanopore-minion",
+    "href": "nanoporos.html#video-oxford-nanopore-minion",
+    "title": "05 · Secuenciación por Nanoporos",
+    "section": "Video: Oxford Nanopore MinION",
+    "text": "Video: Oxford Nanopore MinION\n\n  \n\nOxford Nanopore Technologies — Cómo funciona el MinION y la secuenciación por nanoporos"
+  },
+  {
+    "objectID": "nanoporos.html#resumen",
+    "href": "nanoporos.html#resumen",
+    "title": "05 · Secuenciación por Nanoporos",
+    "section": "Resumen",
+    "text": "Resumen\n\n\n\nCaracterística\nValor\n\n\n\n\nAño comercial\n~2015 (MinION)\n\n\nLongitud de lectura\nIlimitada* (miles a millones de bases)\n\n\nPrecisión actual\n&gt;99% (modelos actuales de IA)\n\n\nParalelismo\nAlto\n\n\nRequiere amplificación\nNo\n\n\nFortaleza\nPortabilidad, tiempo real, lecturas ultra-largas\n\n\n\n*Puede leer moléculas cromosómicas completas (millones de bases en una sola lectura).\n\n\n\n\n\n\n🧬 ARN directo\n\n\n\nUna ventaja única: puede secuenciar ARN directamente, sin convertirlo a ADN. Esto permite detectar modificaciones de ARN que se perderían en la conversión, abriendo nuevas puertas en epigenómica."
+  },
+  {
+    "objectID": "curiosidades.html",
+    "href": "curiosidades.html",
+    "title": "🔬 10 Datos Curiosos y Rarísimos",
+    "section": "",
+    "text": "💡 Una advertencia\n\n\n\nEstos datos son 100% verídicos, documentados en la literatura científica e histórica."
+  },
+  {
+    "objectID": "curiosidades.html#sabías-que",
+    "href": "curiosidades.html#sabías-que",
+    "title": "🔬 10 Datos Curiosos y Rarísimos",
+    "section": "¿Sabías que…?",
+    "text": "¿Sabías que…?\n\n\n\n\n\n\n🧬 El genoma humano “completo” no se completó hasta 2021\n\n\n\nEl Proyecto Genoma Humano de 2001 dejó sin secuenciar aproximadamente el 8% del genoma — las regiones centroméricas y teloméricas, altamente repetitivas. No fue hasta 2021 que el Consorcio T2T, usando PacBio HiFi y nanoporos, publicó la primera secuencia verdaderamente completa del genoma humano. Nos llevó 20 años adicionales resolver el 8% restante.\n\n\n\n\n\n\n\n\n💰 Sanger nunca ganó un centavo de su método más famoso\n\n\n\nFred Sanger nunca patentó la terminación de cadena ni ninguno de sus métodos. Esto permitió que Applied Biosystems, Perkin-Elmer y decenas de otras empresas desarrollaran secuenciadores comerciales libremente. La decisión de no patentar fue probablemente una de las más valiosas para la ciencia en el siglo XX."
+  },
+  {
+    "objectID": "sanger.html",
+    "href": "sanger.html",
+    "title": "01 · Secuenciación de Sanger",
+    "section": "",
+    "text": "01\n\n\nSecuenciación de Sanger · 1977 · Gold standard · Alta precisión · ~1,000 pb por lectura"
+  },
+  {
+    "objectID": "sanger.html#fred-sanger-el-gran-decodificador-de-la-biología",
+    "href": "sanger.html#fred-sanger-el-gran-decodificador-de-la-biología",
+    "title": "01 · Secuenciación de Sanger",
+    "section": "Fred Sanger: El Gran Decodificador de la Biología",
+    "text": "Fred Sanger: El Gran Decodificador de la Biología\nFred Sanger fue el gran decodificador de la biología. Bioquímico británico que pasó toda su carrera en la Universidad de Cambridge, Sanger es el único científico que ha ganado dos Premios Nobel en el mismo campo:\n\n\n\n\n\n\n\n\nAño\nPremio\nLogro\n\n\n\n\n1958\nNobel de Química\nSecuencia de aminoácidos de proteínas (insulina)\n\n\n1980\nNobel de Química (compartido)\nMétodos para secuenciar ADN\n\n\n\n\n\n\n\n\n\n🏅 Dato poco conocido\n\n\n\nSanger rechazó el título de nobleza de “Sir Frederick Sanger”. Prefería que lo llamaran simplemente “Fred”. Tampoco patentó ninguno de sus métodos, permitiendo que toda la comunidad científica los usara libremente."
+  },
+  {
+    "objectID": "sanger.html#ray-wu-el-pionero-olvidado",
+    "href": "sanger.html#ray-wu-el-pionero-olvidado",
+    "title": "01 · Secuenciación de Sanger",
+    "section": "Ray Wu: El Pionero Olvidado",
+    "text": "Ray Wu: El Pionero Olvidado\nAunque hoy se asume que Sanger fue el primero en secuenciar ADN, eso no es del todo correcto. Fue superado por bioquímicos de Cornell en dos ocasiones:\n\n\n\n1965\n\n\nRobert Holley supera a Sanger en ARN\n\n\nEl bioquímico de Cornell reportó la secuencia completa de 77 nucleótidos del ARN de transferencia de alanina, superando a Sanger, quien también buscaba ser el primero en secuenciar ARN.\n\n\n\n\n1970\n\n\nRay Wu: primer método de secuenciación de ADN\n\n\nEl bioquímico de Cornell publicó un método para leer secciones específicas de dos genomas de fagos bacterianos (λ y bacteriófago 186). Fue el primero en usar cebadores (primers) como punto de partida — un concepto que Sanger adoptaría después.\n\n\n\n\n1974\n\n\nWu refina el primer método general\n\n\nEl laboratorio de Wu refinó su técnica en el primer método general de secuenciación de ADN. Era extremadamente laborioso (usaba 2D-homochromatografía) y no logró adoptarse ampliamente.\n\n\n\nRay Wu murió en 2008 sin recibir el Nobel. El debate sobre si mereció compartir el premio de 1980 sigue vivo en la comunidad científica."
+  },
+  {
+    "objectID": "sanger.html#el-método-plus-minus-sanger-coulson-1975",
+    "href": "sanger.html#el-método-plus-minus-sanger-coulson-1975",
+    "title": "01 · Secuenciación de Sanger",
+    "section": "El Método Plus-Minus (Sanger & Coulson, 1975)",
+    "text": "El Método Plus-Minus (Sanger & Coulson, 1975)\nLa mezcla inicial contenía: ADN molde + ADN polimerasa + cebador + tres dNTPs normales + un dNTP radiolabelado. Las bajas concentraciones hacían que la síntesis se detuviera en posiciones aleatorias, generando fragmentos de ADN de longitudes variables.\n\nLas 8 Reacciones\n\nPurificación — Los fragmentos se purifican y usan como moldes.\nSistema Minus (−A, −C, −G, −T) — Cada fragmento se incuba con 3 de los 4 dNTPs. La polimerasa extiende hasta que necesita el nucleótido faltante y se detiene.\nSistema Plus (+A, +C, +G, +T) — Usa T4 ADN polimerasa (actividad exonucleasa 3’→5’). Degrada el fragmento hasta el dNTP presente en el tubo. Todos terminan en ese nucleótido.\nElectroforesis en gel — 8 conjuntos separados por tamaño.\nAutorradiografía — Fragmentos radiactivos detectados en film de rayos X.\nLectura manual — Un científico traduce las bandas en secuencia de ADN.\n\nEn 1977, Sanger secuenció el primer genoma completo con este método: el bacteriófago φX174 (PhiX) con 5,386 nucleótidos.\n\n\n\n\n\n\n🦠 PhiX174: Un virus de heces\n\n\n\nEl bacteriófago φX174 infecta a E. coli, bacteria del tracto digestivo. El primer hito de la genómica fue, técnicamente, la secuenciación de un virus de intestino."
+  },
+  {
+    "objectID": "sanger.html#terminación-de-cadena-el-método-definitivo-1977",
+    "href": "sanger.html#terminación-de-cadena-el-método-definitivo-1977",
+    "title": "01 · Secuenciación de Sanger",
+    "section": "Terminación de Cadena: El Método Definitivo (1977)",
+    "text": "Terminación de Cadena: El Método Definitivo (1977)\nEn el mismo año que secuenció PhiX174, Sanger desarrolló un método más simple y elegante: la terminación de cadena con ddNTPs.\n\ndNTP vs. ddNTP\n\n\n✅ dNTP (normal)\nTiene grupo –OH en el carbono 3’. La ADN polimerasa puede añadir el siguiente nucleótido. La síntesis continúa.\n\n\n❌ ddNTP (terminador)\nSin grupo –OH en el carbono 3’. La reacción necesaria para añadir otro nucleótido es imposible. La síntesis se termina permanentemente.\n\n\n\n\nProceso\n\nADN molde + cebador + ADN polimerasa + 4 dNTPs.\nSe añade ddNTP radiolabelado de un solo tipo (ej. ddATP) en pequeña cantidad.\nSolo una fracción de los fragmentos se detiene en cada ocurrencia de esa base.\n4 reacciones paralelas: ddATP, ddCTP, ddGTP, ddTTP.\nFragmentos separados por tamaño en gel → autorradiografía → se lee la secuencia.\n\n\n\nMaxam-Gilbert vs. Sanger\nEl método rival de Maxam y Gilbert (escisión química del ADN) dominó hasta los años 80. La terminación de cadena de Sanger lo superó porque espeja el proceso natural de copiado del ADN — considerado más “elegante” y técnicamente superior."
+  },
+  {
+    "objectID": "sanger.html#automatización-1986",
+    "href": "sanger.html#automatización-1986",
+    "title": "01 · Secuenciación de Sanger",
+    "section": "Automatización (1986)",
+    "text": "Automatización (1986)\n\n\n\n1986\n\n\nHood reemplaza radiactividad con fluorescencia\n\n\nEl laboratorio de Leroy Hood (Caltech) sustituyó los ddNTPs radiomarcados con nucleótidos fluorescentes de 4 colores. Una computadora detecta los colores al pasar por un rayo láser. La secuencia se lee automáticamente.\n\n\n\n\n1986\n\n\nABI 370A — Primer secuenciador comercial automático · $92,500\n\n\nProducido por Applied Biosystems (ABS), co-fundada por Hood. Como Sanger nunca patentó su método, otras compañías podían competir libremente.\n\n\n\n\n1988+\n\n\nPerkin-Elmer 3700 y ABS 3500\n\n\nEl Perkin-Elmer 3700 fue usado por el HGP y Celera Genomics. El ABS 3500 Genetic Analyzer aún se encuentra en muchos laboratorios hoy en día."
+  },
+  {
+    "objectID": "sanger.html#video-sanger-sequencing",
+    "href": "sanger.html#video-sanger-sequencing",
+    "title": "01 · Secuenciación de Sanger",
+    "section": "Video: Sanger Sequencing",
+    "text": "Video: Sanger Sequencing\n\n  \n\nAnimación del método de Sanger — cadena de terminación con ddNTPs"
+  },
+  {
+    "objectID": "sanger.html#resumen",
+    "href": "sanger.html#resumen",
+    "title": "01 · Secuenciación de Sanger",
+    "section": "Resumen",
+    "text": "Resumen\n\n\n\nCaracterística\nValor\n\n\n\n\nAño comercial\n1986 (ABI 370A)\n\n\nLongitud de lectura\n~700–1,000 pb\n\n\nPrecisión\nMuy alta (&gt;99.9%)\n\n\nParalelismo\nBajo\n\n\nUso principal\nVerificación, diagnóstico clínico, secuencias cortas\n\n\n\n\n\n\n\n\n\n🏆 El Gold Standard\n\n\n\nSanger sequencing sigue siendo el estándar de oro de precisión para validar resultados, secuenciar fragmentos específicos y en diagnóstico clínico, aunque los métodos NGS lo han reemplazado para genómica de gran escala."
+  },
+  {
+    "objectID": "contexto.html",
+    "href": "contexto.html",
+    "title": "Contexto: El Proyecto Genoma Humano",
+    "section": "",
+    "text": "Cuando el Proyecto Genoma Humano (PGH) publicó su borrador inicial en 2001, el Presidente Bill Clinton lo llamó “el mapa más maravilloso jamás producido por la humanidad”. Tras más de diez años de trabajo y un costo estimado de $3 mil millones de dólares, el proyecto había producido una secuencia casi completa del genoma humano.\n\n\n\n1990\n\n\nAño de inicio del Proyecto Genoma Humano\n\n\n\n\n2001\n\n\nPublicación del primer borrador\n\n\n\n\n$3 B\n\n\nCosto estimado total (USD)\n\n\n\n\n3,200 M\n\n\nPares de bases en el genoma humano"
+  },
+  {
+    "objectID": "contexto.html#el-momento-que-cambió-la-biología",
+    "href": "contexto.html#el-momento-que-cambió-la-biología",
+    "title": "Contexto: El Proyecto Genoma Humano",
+    "section": "",
+    "text": "Cuando el Proyecto Genoma Humano (PGH) publicó su borrador inicial en 2001, el Presidente Bill Clinton lo llamó “el mapa más maravilloso jamás producido por la humanidad”. Tras más de diez años de trabajo y un costo estimado de $3 mil millones de dólares, el proyecto había producido una secuencia casi completa del genoma humano.\n\n\n\n1990\n\n\nAño de inicio del Proyecto Genoma Humano\n\n\n\n\n2001\n\n\nPublicación del primer borrador\n\n\n\n\n$3 B\n\n\nCosto estimado total (USD)\n\n\n\n\n3,200 M\n\n\nPares de bases en el genoma humano"
+  },
+  {
+    "objectID": "contexto.html#la-guerra-genómica",
+    "href": "contexto.html#la-guerra-genómica",
+    "title": "Contexto: El Proyecto Genoma Humano",
+    "section": "La Guerra Genómica",
+    "text": "La Guerra Genómica\nEl PGH fue financiado por gobiernos de EE. UU., Reino Unido, Francia, Alemania, Japón y China. En paralelo, Craig Venter fundó Celera Genomics con la ambición de secuenciar el genoma usando shotgun sequencing. Ambas instituciones publicaron sus resultados simultáneamente en 2001 — HGP en Nature, Celera en Science.\n\n\n\n\n\n\n💡 Un detalle olvidado\n\n\n\nEl “genoma humano” que publicó Celera en 2001 estaba compuesto principalmente del ADN del propio Craig Venter. Básicamente, publicó su propio manual de instrucciones genético como representante de la humanidad.\n\n\nTony Blair predijo que este mapa produciría “una revolución en la ciencia médica cuyas implicaciones superan incluso el descubrimiento de los antibióticos” — predicción que ha resultado debatible."
+  },
+  {
+    "objectID": "contexto.html#la-revolución-del-costo",
+    "href": "contexto.html#la-revolución-del-costo",
+    "title": "Contexto: El Proyecto Genoma Humano",
+    "section": "La Revolución del Costo",
+    "text": "La Revolución del Costo\n\n\n\n100,000×\n\n\nReducción del costo en 20 años\n\n\n\n\n~$500\n\n\nCosto actual por genoma completo\n\n\n\n\n$0.006\n\n\nPor megabase (millón de letras) de ADN\n\n\n\nEsta reducción fue impulsada por tres factores:\n\nNuevas químicas de secuenciación — Los métodos NGS reemplazaron a Sanger para secuenciación masiva.\nMétodos computacionales — Algoritmos para ensamblar millones de lecturas cortas.\nHardware eficiente — Máquinas comerciales que procesan millones de secuencias en paralelo.\n\n\n\n\n\n\n\n📊 La Ley de Moore de la Genómica\n\n\n\nLa reducción de costos en secuenciación superó con creces a la Ley de Moore (~1,000× en ese período). La secuenciación mejoró ~100,000 veces. Es posiblemente la mejora tecnológica más acelerada en la historia de las ciencias biológicas."
+  },
+  {
+    "objectID": "contexto.html#video-historia-del-proyecto-genoma-humano",
+    "href": "contexto.html#video-historia-del-proyecto-genoma-humano",
+    "title": "Contexto: El Proyecto Genoma Humano",
+    "section": "Video: Historia del Proyecto Genoma Humano",
+    "text": "Video: Historia del Proyecto Genoma Humano\n\n  \n\nEl Proyecto Genoma Humano — Historia y legado"
+  },
+  {
+    "objectID": "contexto.html#los-cinco-métodos",
+    "href": "contexto.html#los-cinco-métodos",
+    "title": "Contexto: El Proyecto Genoma Humano",
+    "section": "Los Cinco Métodos",
+    "text": "Los Cinco Métodos\n\n\n\n01\n\n\nSanger\n\n\n1977\n\n \n\n02\n\n\n454 Pyro\n\n\n2005\n\n \n\n03\n\n\nIllumina\n\n\n2006\n\n \n\n04\n\n\nPacBio\n\n\n2011\n\n \n\n05\n\n\nNanoporos\n\n\n~2015"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Guía Visual de la Secuenciación del ADN",
+    "section": "",
+    "text": "Historia de las técnicas de secuenciación\n\n\n\nUna guía completa sobre los cinco métodos que transformaron la genómica moderna. Desde el trabajo de Fred Sanger en 1977 hasta los nanoporos portátiles del siglo XXI.\nBasado en: Asimov Press & Evan DeTurk (2026)"
+  },
+  {
+    "objectID": "index.html#los-cinco-métodos-fundamentales",
+    "href": "index.html#los-cinco-métodos-fundamentales",
+    "title": "Guía Visual de la Secuenciación del ADN",
+    "section": "Los Cinco Métodos Fundamentales",
+    "text": "Los Cinco Métodos Fundamentales\n\n\n\n01\n\n\nSecuenciación de Sanger\n\n\n1977 — Gold Standard\n\n \n\n02\n\n\nPiroseucenciación 454\n\n\n2005 — Primer NGS\n\n \n\n03\n\n\nIllumina (SBS)\n\n\n2006 — ~80% del mercado\n\n \n\n04\n\n\nPacBio SMRT\n\n\n2011 — Lecturas largas\n\n \n\n05\n\n\nNanoporos (ONT)\n\n\n~2015 — Portátil"
+  },
+  {
+    "objectID": "index.html#el-impacto-en-números",
+    "href": "index.html#el-impacto-en-números",
+    "title": "Guía Visual de la Secuenciación del ADN",
+    "section": "El Impacto en Números",
+    "text": "El Impacto en Números\n\n\n\n$3 B\n\n\nCosto inicial del Proyecto Genoma Humano (USD)\n\n\n\n\n~$500\n\n\nCosto actual de secuenciar un genoma completo\n\n\n\n\n100,000×\n\n\nReducción de costos en solo 20 años\n\n\n\n\n5,386\n\n\nNucleótidos del primer genoma secuenciado (PhiX174, 1977)"
+  },
+  {
+    "objectID": "index.html#video-introductorio",
+    "href": "index.html#video-introductorio",
+    "title": "Guía Visual de la Secuenciación del ADN",
+    "section": "Video Introductorio",
+    "text": "Video Introductorio\n\n\n\n\n\n\n🎬 ¿Por qué importa la secuenciación del ADN?\n\n\n\nEste video del NHGRI introduce el contexto histórico y la importancia del Proyecto Genoma Humano.\n\n\n\n\n\nFuente: National Human Genome Research Institute (NHGRI) · YouTube\n\n:::"
+  },
+  {
+    "objectID": "index.html#estructura-de-esta-guía",
+    "href": "index.html#estructura-de-esta-guía",
+    "title": "Guía Visual de la Secuenciación del ADN",
+    "section": "Estructura de esta Guía",
+    "text": "Estructura de esta Guía\n\n\n\nSección\nContenido\n\n\n\n\nContexto\nProyecto Genoma Humano y la revolución del costo\n\n\nSanger\nFred Sanger, Ray Wu, Plus-Minus, Terminación de Cadena\n\n\n454\nPiroseucenciación: del laboratorio de Nyren a 454 Life Sciences\n\n\nIllumina\nSolexa, flow cell, bridge amplification, dominancia del mercado\n\n\nPacBio\nZMWs, SMRTbell, lecturas largas\n\n\nNanoporos\nα-hemolisina, Oxford Nanopore Technologies, MinION\n\n\nComparación\nTabla comparativa y línea de tiempo completa\n\n\nCuriosidades\n10 datos sorprendentes y rarísimos\n\n\nReferencias\nFuentes primarias y recursos adicionales\n\n\n\n\n\n\n\n\n\n💡 Consejo de lectura\n\n\n\nUsa el menú de navegación superior para explorar cada método. Cada página incluye vídeos explicativos, diagramas descriptivos y datos curiosos relevantes."
+  },
+  {
+    "objectID": "illumina.html",
+    "href": "illumina.html",
+    "title": "03 · Illumina — Secuenciación por Síntesis",
+    "section": "",
+    "text": "03\n\n\nIllumina — Sequencing by Synthesis (SBS) · 2006 · ~80% del mercado NGS · Lecturas cortas de alta precisión"
+  },
+  {
+    "objectID": "illumina.html#historia-de-solexa-a-la-dominancia-global",
+    "href": "illumina.html#historia-de-solexa-a-la-dominancia-global",
+    "title": "03 · Illumina — Secuenciación por Síntesis",
+    "section": "Historia: De Solexa a la Dominancia Global",
+    "text": "Historia: De Solexa a la Dominancia Global\nA mediados de los 1990s, los bioquímicos David Klenerman y Shankar Balasubramanian de la Universidad de Cambridge desarrollaron terminadores reversibles — nucleótidos modificados marcados con cuatro fluoróforos de colores diferentes. La gran intuición: sintetizar la cadena complementaria de ADN de a una base a la vez, identificando cada nucleótido por el color de su fluoróforo.\n\n\n\n1998\n\n\nFundación de Solexa\n\n\nKlenerman y Balasubramanian fundan Solexa para llevar la tecnología SBS al mercado.\n\n\n\n\n2004\n\n\nSolexa adquiere la secuenciación de colonias\n\n\nDetectar fluorescencia de una sola molécula resultó difícil. Solexa adquiere los derechos IP de la secuenciación de colonias (Pascal Mayer & Laurent Farinelli, Francia), que resolvía el problema de señal débil.\n\n\n\n\n2006\n\n\nGenome Analyzer: $400,000 USD\n\n\nPrimer instrumento comercial de Solexa.\n\n\n\n\n2007\n\n\nIllumina adquiere Solexa\n\n\nLa empresa estadounidense de genómica Illumina adquiere Solexa. El método SBS lleva desde entonces la marca Illumina.\n\n\n\n\n2008\n\n\nPrimer genoma completo por short reads\n\n\nIllumina publica demostración de secuenciación de genomas completos mediante lecturas cortas ensambladas computacionalmente. Acuñan el término “Sequencing by Synthesis”."
+  },
+  {
+    "objectID": "illumina.html#cómo-funciona-illumina-sbs",
+    "href": "illumina.html#cómo-funciona-illumina-sbs",
+    "title": "03 · Illumina — Secuenciación por Síntesis",
+    "section": "¿Cómo Funciona Illumina SBS?",
+    "text": "¿Cómo Funciona Illumina SBS?\n\nEtapa 1: Preparación del Flow Cell\n\nFragmentación — El ADN molde se fragmenta en ~200–500 pb. Se añaden secuencias adaptadoras a los extremos.\nUnión al flow cell — Los fragmentos se pasan sobre el chip (que tiene una “pradera” de secuencias cortas). Los adaptadores se unen a la pradera.\nBridge Amplification — El extremo libre de cada hebra se dobla y se une a una secuencia adyacente, formando un puente. Se amplifica repetidamente.\nFormación de clusters — Cada fragmento se amplifica ~1,000 veces, creando clusters de hebras idénticas. Esto amplifica la señal fluorescente hasta hacerla detectable.\n\n\n\nEtapa 2: Secuenciación\n\nTerminadores fluorescentes — Se añaden terminadores reversibles: 4 bases, 4 colores.\nIncorporación de un nucleótido — La ADN polimerasa incorpora exactamente un nucleótido. El terminador bloquea la adición de más bases.\nImagen del chip — Se toma una fotografía completa del chip. El color de cada cluster revela qué base fue incorporada.\nEliminación del bloqueo — Los bloqueadores se eliminan químicamente.\nCiclos — Los pasos 2–4 se repiten cientos de veces.\nEnsamblaje computacional — Las lecturas cortas se ensamblan por paired-end analysis para reconstruir la secuencia completa."
+  },
+  {
+    "objectID": "illumina.html#video-illumina-sequencing-by-synthesis",
+    "href": "illumina.html#video-illumina-sequencing-by-synthesis",
+    "title": "03 · Illumina — Secuenciación por Síntesis",
+    "section": "Video: Illumina Sequencing by Synthesis",
+    "text": "Video: Illumina Sequencing by Synthesis\n\n  \n\nAnimación oficial de Illumina del proceso de Sequencing by Synthesis (SBS)"
+  },
+  {
+    "objectID": "illumina.html#aplicaciones",
+    "href": "illumina.html#aplicaciones",
+    "title": "03 · Illumina — Secuenciación por Síntesis",
+    "section": "Aplicaciones",
+    "text": "Aplicaciones\n\n\n\n\n\n\n\nAplicación\nDescripción\n\n\n\n\nNuevos genomas de referencia\nEl tomate, organismos agrícolas, species nuevas\n\n\nCuantificación CRISPR\nMide el % de edición génica con alta cobertura\n\n\nADN ancestral\nFragmentos cortos degradados se leen con alta exactitud\n\n\nGenoma Neandertal\nCompletó el proyecto junto con 454\n\n\nArqueogenética\nCuerpos de 10,000 años; migraciones neolíticas\n\n\nEpidemiología\nVigilancia genómica de patógenos (SARS-CoV-2)\n\n\n\n\n\n\n\n\n\n🔬 La paradoja del ADN antiguo\n\n\n\nLas lecturas cortas de Illumina, consideradas una limitación técnica, resultaron perfectas para ADN ancestral degradado que naturalmente se fragmenta en piezas pequeñas. Una “debilidad” que se convirtió en fortaleza."
+  },
+  {
+    "objectID": "illumina.html#resumen",
+    "href": "illumina.html#resumen",
+    "title": "03 · Illumina — Secuenciación por Síntesis",
+    "section": "Resumen",
+    "text": "Resumen\n\n\n\n\n\n\n\nCaracterística\nValor\n\n\n\n\nAño comercial\n2006 (Genome Analyzer)\n\n\nLongitud de lectura\n50–300 pb\n\n\nPrecisión\nMuy alta (&gt;99.9%)\n\n\nParalelismo\nMuy alto\n\n\nCuota de mercado NGS\n~80%\n\n\nDebilidad\nLecturas cortas (no resuelve regiones repetitivas largas)\n\n\n\n\n\n\n\n\n\n🔗 Complementariedad con PacBio\n\n\n\nEn proyectos de genómica de alta calidad se usa Illumina + PacBio: Illumina para cobertura y precisión masiva, PacBio para resolver las zonas complejas con lecturas largas."
+  },
+  {
+    "objectID": "pirosecuenciacion.html",
+    "href": "pirosecuenciacion.html",
+    "title": "02 · Piroseucenciación 454",
+    "section": "",
+    "text": "02\n\n\nPiroseucenciación 454 · 2005 · Primer NGS comercial · ~700 pb por lectura · Detección de luz (PPi)"
+  },
+  {
+    "objectID": "pirosecuenciacion.html#la-inspiración-luciérnagas-y-pirofosfato",
+    "href": "pirosecuenciacion.html#la-inspiración-luciérnagas-y-pirofosfato",
+    "title": "02 · Piroseucenciación 454",
+    "section": "La Inspiración: Luciérnagas y Pirofosfato",
+    "text": "La Inspiración: Luciérnagas y Pirofosfato\nEn 1985, los bioquímicos suecos Pål Nyren y Arne Lundin publicaron un procedimiento que medía la concentración de pirofosfato inorgánico (PPi) usando una cascada enzimática que emitía luz.\n\n\n\n\n\n\n💡 La Conexión con la Luciérnaga\n\n\n\nLa cascada enzimática usa luciferasa de luciérnaga — la misma enzima que hace brillar a las luciérnagas en el jardín. Cada nucleótido incorporado en el ADN produce un destello de luz. La bioluminiscencia que los niños persiguen en el jardín es también la que permitió descifrar el genoma humano."
+  },
+  {
+    "objectID": "pirosecuenciacion.html#historia",
+    "href": "pirosecuenciacion.html#historia",
+    "title": "02 · Piroseucenciación 454",
+    "section": "Historia",
+    "text": "Historia\n\n\n\n1985\n\n\nNyren y Lundin: la cascada enzimática\n\n\nPublican procedimiento que mide PPi usando ATP sulfurilasa y luciferasa de luciérnaga. Producción de luz proporcional a la concentración de PPi.\n\n\n\n\n1986\n\n\nLa revelación de Nyren\n\n\nNyren se da cuenta de que el PPi se produce naturalmente como subproducto de la síntesis de ADN. Por lo tanto, la técnica puede aplicarse a la secuenciación.\n\n\n\n\n1993\n\n\nPrimera prueba de concepto publicada\n\n\nCon financiamiento limitado, Nyren publica la prueba de concepto. La mezcla incluye ADN molde + cebador + un dNTP individual + tres enzimas: ADN polimerasa, ATP sulfurilasa y luciferasa de luciérnaga.\n\n\n\n\n1996\n\n\n15 bases secuenciadas\n\n\nEl laboratorio de Nyren demuestra secuenciación de hasta 15 bases usando un nucleótido “A” modificado para reducir la relación señal-ruido.\n\n\n\n\n1998\n\n\n34 bases con apirasa\n\n\nAñaden la enzima apirasa, que degrada los nucleótidos no incorporados, eliminando la necesidad de pasos de lavado constantes. Alcanzan 34 bases por lectura.\n\n\n\n\n2005\n\n\n454 Life Sciences lanza el GS20 — $500,000 USD\n\n\nPrimer secuenciador NGS comercial. Marca el inicio oficial de la era de la secuenciación de nueva generación (NGS)."
+  },
+  {
+    "objectID": "pirosecuenciacion.html#cómo-funciona",
+    "href": "pirosecuenciacion.html#cómo-funciona",
+    "title": "02 · Piroseucenciación 454",
+    "section": "¿Cómo Funciona?",
+    "text": "¿Cómo Funciona?\nCuando la ADN polimerasa incorpora un dNTP en la cadena creciente, libera PPi que desencadena la cascada: PPi → ATP → Luz.\n\nEl Proceso Paso a Paso\n\nPreparación — El ADN molde se fija a una perla (bead) mediante biotina-estreptavidina y se amplifica por PCR en emulsión.\nCarga en micropocillos — Cada perla se carga en un pocillo individual. Un pocillo = una perla = una secuencia única.\nCiclo de dNTPs — Los 4 dNTPs se añaden de forma secuencial (A, T, G, C), con lavado entre cada adición.\nFlash de luz — Si el dNTP se incorpora: PPi se libera → ATP sulfurilasa convierte PPi en ATP → luciferasa produce luz.\nRegistro por cámara — Una cámara detecta el tiempo y ubicación de cada flash en la placa.\nSin geles — La secuencia se registra nucleótido a nucleótido en tiempo real. No requiere electroforesis.\n\n\n\n\n\n\n\n⚡ Ventaja clave: Sin geles\n\n\n\nFue el primer método de secuenciación totalmente automatizable sin necesidad de electroforesis en gel."
+  },
+  {
+    "objectID": "pirosecuenciacion.html#limitaciones",
+    "href": "pirosecuenciacion.html#limitaciones",
+    "title": "02 · Piroseucenciación 454",
+    "section": "Limitaciones",
+    "text": "Limitaciones\n\n\n❌ Homopolímeros\nDificultades con regiones de nucleótidos consecutivos repetidos (ej. AAAAAAA). La cantidad de luz no escalaba linealmente con el número de incorporaciones, generando errores.\n\n\n❌ Lecturas cortas\n~700 pares de bases por lectura. Mejor que la mayoría de NGS de su época, pero limitado comparado con PacBio (&gt;10,000 pb)."
+  },
+  {
+    "objectID": "pirosecuenciacion.html#impacto-y-legado",
+    "href": "pirosecuenciacion.html#impacto-y-legado",
+    "title": "02 · Piroseucenciación 454",
+    "section": "Impacto y Legado",
+    "text": "Impacto y Legado\nEl Genoma Neandertal (2006): 454 colaboró con Svante Pääbo para secuenciar el primer millón de pares de bases del genoma Neandertal. El proyecto se completó en 2010, con contribución adicional de Illumina.\n\n\n\nHito\nAño\n\n\n\n\nGS20 comercial\n2005\n\n\nPrimer millón de bases del Neandertal\n2006\n\n\nGenoma Neandertal completo\n2010\n\n\nRoche adquiere 454\n2007\n\n\nRoche cierra 454\n2013"
+  },
+  {
+    "objectID": "pirosecuenciacion.html#video-piroseucenciación",
+    "href": "pirosecuenciacion.html#video-piroseucenciación",
+    "title": "02 · Piroseucenciación 454",
+    "section": "Video: Piroseucenciación",
+    "text": "Video: Piroseucenciación\n\n  \n\nAnimación del proceso de piroseucenciación con la cascada enzimática PPi → ATP → Luz"
+  },
+  {
+    "objectID": "pirosecuenciacion.html#resumen",
+    "href": "pirosecuenciacion.html#resumen",
+    "title": "02 · Piroseucenciación 454",
+    "section": "Resumen",
+    "text": "Resumen\n\n\n\nCaracterística\nValor\n\n\n\n\nAño comercial\n2005 (GS20)\n\n\nLongitud de lectura\n~700 pb\n\n\nPrecisión\nAlta\n\n\nParalelismo\nMedio\n\n\nRequiere gel\nNo\n\n\nDebilidad\nHomopolímeros, costo alto"
+  }
+]

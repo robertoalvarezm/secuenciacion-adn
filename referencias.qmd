@@ -1,0 +1,108 @@
+---
+title: "Referencias y Recursos"
+subtitle: "Fuentes primarias, artículos clave y recursos para profundizar"
+---
+
+## Fuente Principal
+
+> Asimov Press & Evan DeTurk (2026). **"A Visual Guide to DNA Sequencing: How to 'read' nucleic acids, from Sanger to nanopores."** *Asimov Press*, Febrero 26, 2026.
+
+---
+
+## Artículos Científicos Fundacionales
+
+### Secuenciación de Sanger
+
+1. **Sanger, F. & Coulson, A.R.** (1975). A rapid method for determining sequences in DNA by primed synthesis with DNA polymerase. *Journal of Molecular Biology*, 94(3), 441–448.
+
+2. **Sanger, F., Nicklen, S. & Coulson, A.R.** (1977). DNA sequencing with chain-terminating inhibitors. *Proceedings of the National Academy of Sciences*, 74(12), 5463–5467.
+
+3. **Wu, R. & Taylor, E.** (1971). Nucleotide sequence analysis of DNA. II. Complete nucleotide sequence of the cohesive ends of bacteriophage λ DNA. *Journal of Molecular Biology*, 57(3), 491–511.
+
+4. **Maxam, A.M. & Gilbert, W.** (1977). A new method for sequencing DNA. *PNAS*, 74(2), 560–564.
+
+### Piroseucenciación 454
+
+5. **Nyren, P. & Lundin, A.** (1985). Enzymatic method for continuous monitoring of inorganic pyrophosphate synthesis. *Analytical Biochemistry*, 151(2), 504–509.
+
+6. **Ronaghi, M., Uhlen, M. & Nyren, P.** (1998). A sequencing method based on real-time pyrophosphate. *Science*, 281(5375), 363–365.
+
+7. **Margulies, M. et al.** (2005). Genome sequencing in microfabricated high-density picolitre reactors. *Nature*, 437, 376–380. *(Paper fundacional de 454 Life Sciences)*
+
+### Illumina / Secuenciación por Síntesis
+
+8. **Bentley, D.R. et al.** (2008). Accurate whole human genome sequencing using reversible terminator chemistry. *Nature*, 456, 53–59.
+
+9. **Turcatti, G. et al.** (2008). A new class of cleavable fluorescent nucleotides: synthesis and optimization as reversible terminators for DNA sequencing by synthesis. *Nucleic Acids Research*, 36(4), e25.
+
+### PacBio SMRT
+
+10. **Levene, M.J. et al.** (2003). Zero-mode waveguides for single-molecule analysis at high concentrations. *Science*, 299(5607), 682–686. *(Paper de los ZMWs de Webb y Craighead)*
+
+11. **Eid, J. et al.** (2009). Real-time DNA sequencing from single polymerase molecules. *Science*, 323(5910), 133–138. *(Paper fundacional de PacBio SMRT)*
+
+### Nanoporos
+
+12. **Kasianowicz, J.J., Brandin, E., Branton, D. & Deamer, D.W.** (1996). Characterization of individual polynucleotide molecules using a membrane channel. *PNAS*, 93(24), 13770–13773.
+
+13. **Bayley, H.** (2006). Sequencing single molecules of DNA. *Current Opinion in Chemical Biology*, 10(6), 628–637.
+
+14. **Laver, T. et al.** (2015). Assessing the performance of the Oxford Nanopore Technologies MinION. *Biomolecular Detection and Quantification*, 3, 1–8.
+
+### Proyecto Genoma Humano
+
+15. **Lander, E.S. et al. (International Human Genome Sequencing Consortium)** (2001). Initial sequencing and analysis of the human genome. *Nature*, 409, 860–921.
+
+16. **Venter, J.C. et al.** (2001). The sequence of the human genome. *Science*, 291(5507), 1304–1351.
+
+17. **Nurk, S. et al.** (2022). The complete sequence of a human genome. *Science*, 376(6588), 44–53. *(T2T — Genoma humano verdaderamente completo, 2021)*
+
+---
+
+## Revisiones y Artículos de Perspectiva
+
+18. **Heather, J.M. & Chain, B.** (2016). The sequence of sequencers: The history of sequencing DNA. *Genomics*, 107(1), 1–8. *(Excelente revisión histórica completa)*
+
+19. **Shendure, J. et al.** (2017). DNA sequencing at 40: past, present and future. *Nature*, 550, 345–353.
+
+20. **Amarasinghe, S.L. et al.** (2020). Opportunities and challenges in long-read sequencing data analysis. *Genome Biology*, 21, 30.
+
+---
+
+## Recursos en Línea
+
+### Institucionales
+
+| Recurso | URL | Descripción |
+|---------|-----|-------------|
+| NHGRI Learning Center | [genome.gov](https://www.genome.gov/about-genomics/fact-sheets) | Fichas informativas del Instituto Nacional del Genoma Humano |
+| Ensembl Genome Browser | [ensembl.org](https://www.ensembl.org) | Explorador de genomas con datos de Illumina y otros métodos |
+| PacBio Documentation | [pacb.com](https://www.pacb.com) | Documentación técnica del SMRT sequencing |
+| Oxford Nanopore Docs | [nanoporetech.com](https://nanoporetech.com) | Documentación y recursos de ONT |
+
+### Videos Recomendados
+
+| Video | Canal | Descripción |
+|-------|-------|-------------|
+| iBiology DNA Sequencing Series | YouTube/iBiology | Serie completa de alta calidad académica |
+| Illumina SBS Animation | YouTube/Illumina | Animación oficial del proceso SBS |
+| PacBio SMRT Explanation | YouTube/PacBio | Explicación oficial del SMRT sequencing |
+| ONT MinION Overview | YouTube/Oxford Nanopore | Introducción al MinION y secuenciación por nanoporos |
+
+---
+
+## Libros de Texto Recomendados
+
+- **Alberts et al.** — *Molecular Biology of the Cell* (7th ed.) — Capítulos sobre tecnología de secuenciación
+- **Lewin's Genes** (12th ed.) — Fundamentos de genética molecular con secciones NGS
+- **Griffiths et al.** — *Introduction to Genetic Analysis* — Accesible para nivel maestría
+- **Goodwin, McPherson & McCombie** (2016) — Coming of age: ten years of next-generation sequencing technologies. *Nature Reviews Genetics*, 17, 333–351
+
+---
+
+## Nota sobre Esta Guía
+
+::: {.callout-note}
+## 📌 Acerca de las fuentes
+Esta guía académica está basada principalmente en el artículo de **Asimov Press & Evan DeTurk** (2026), complementado con los artículos científicos originales y revisiones peer-reviewed citados arriba. Toda afirmación factual puede ser rastreada a una fuente primaria. Se recomienda consultar las fuentes primarias para uso académico formal.
+:::

@@ -1,0 +1,208 @@
+---
+title: "Comparación de los 5 Métodos"
+subtitle: "Tabla comparativa completa y línea de tiempo histórica"
+---
+
+## Tabla Comparativa
+
+| Método | Año | Longitud de lectura | Precisión | Paralelismo | Fortaleza |
+|--------|:---:|:---:|:---:|:---:|-----|
+| **Sanger** | 1986 | ~1,000 pb | Muy alta | Bajo | Precisión, gold standard |
+| **454 Pyro** | 2005 | ~700 pb | Alta | Medio | Primer NGS, sin geles |
+| **Illumina (SBS)** | 2006 | 50–300 pb | Muy alta | Muy alto | Costo bajo, cobertura masiva |
+| **PacBio SMRT** | 2011 | >10,000 pb | Alta (consenso) | Medio | Lecturas ultra-largas |
+| **Nanoporos (ONT)** | ~2015 | Ilimitada* | Media-Alta | Alto | Portátil, tiempo real |
+
+*Oxford Nanopore puede leer moléculas cromosómicas completas. pb = pares de bases.
+
+---
+
+## ¿Cuándo Usar Cada Método?
+
+::: {.two-col}
+
+::: {.info-box}
+#### 🎯 Usar Sanger cuando:
+- Se necesita verificar un fragmento específico corto
+- Diagnóstico clínico de mutaciones puntuales
+- Control de calidad de construcciones plasmídicas
+- Presupuesto limitado para pocas secuencias
+:::
+
+::: {.info-box}
+#### 🎯 Usar Illumina cuando:
+- Secuenciación de genomas completos a bajo costo
+- RNA-seq, ChIP-seq, ATAC-seq
+- Cuantificación de edición génica (CRISPR)
+- ADN antiguo/degradado
+:::
+
+::: {.info-box}
+#### 🎯 Usar PacBio cuando:
+- Genomas con muchas repeticiones
+- Resolución de variaciones estructurales
+- Ensamblaje de novo de genomas de referencia
+- Detección de modificaciones de bases (metilación)
+:::
+
+::: {.info-box}
+#### 🎯 Usar Nanoporos cuando:
+- Trabajo en campo (sin laboratorio disponible)
+- Se requiere respuesta inmediata
+- Secuenciación directa de ARN
+- Lecturas ultra-largas (cromosomas completos)
+:::
+
+:::
+
+---
+
+## Línea de Tiempo: 70 Años de Secuenciación del ADN
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.timeline-year}
+1955
+:::
+::: {.timeline-title}
+Sanger descifra la secuencia de la insulina
+:::
+::: {.timeline-desc}
+Fred Sanger determina la secuencia completa de aminoácidos de la insulina. Gana el Nobel en 1958. Sienta las bases del pensamiento secuencial en biología molecular.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1965
+:::
+::: {.timeline-title}
+Holley secuencia el ARNt de alanina
+:::
+::: {.timeline-desc}
+Robert Holley (Cornell) reporta la secuencia completa de 77 nucleótidos del ARN de transferencia de alanina, superando a Sanger en la secuenciación de ARN.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1970
+:::
+::: {.timeline-title}
+Ray Wu: primer método de secuenciación de ADN
+:::
+::: {.timeline-desc}
+El bioquímico de Cornell publica el primer método para leer secciones específicas de genomas de bacteriófagos, usando primers por primera vez.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1977
+:::
+::: {.timeline-title}
+Terminación de cadena + PhiX174 completo
+:::
+::: {.timeline-desc}
+Sanger desarrolla el método con ddNTPs y secuencia el primer genoma completo: φX174 con 5,386 nucleótidos.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1986
+:::
+::: {.timeline-title}
+ABI 370A: primer secuenciador fluorescente automático
+:::
+::: {.timeline-desc}
+Leroy Hood (Caltech) reemplaza la radiactividad con fluorescencia. Applied Biosystems lanza el ABI 370A a $92,500 USD. Inicio de la automatización.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1990–2003
+:::
+::: {.timeline-title}
+Proyecto Genoma Humano
+:::
+::: {.timeline-desc}
+13 años de trabajo usando principalmente Sanger sequencing. Costo: ~$3 billones USD. Primer borrador en 2001, secuencia completa en 2003.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2005
+:::
+::: {.timeline-title}
+454 GS20: primer NGS comercial
+:::
+::: {.timeline-desc}
+454 Life Sciences lanza el GS20 a $500,000 USD. Marca el inicio de la era NGS.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2006
+:::
+::: {.timeline-title}
+Illumina Genome Analyzer: $400,000 USD
+:::
+::: {.timeline-desc}
+Solexa lanza el primer secuenciador de SBS. Inicia el camino hacia la dominancia del ~80% del mercado NGS.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2011
+:::
+::: {.timeline-title}
+PacBio RS: primer SMRT sequencer
+:::
+::: {.timeline-desc}
+Pacific Biosciences lanza el RS. Lecturas de miles de bases abren la era de long reads.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+~2015
+:::
+::: {.timeline-title}
+Oxford Nanopore MinION: secuenciación portátil
+:::
+::: {.timeline-desc}
+ONT lanza el MinION. Un secuenciador del tamaño de una USB para uso en campo, en el espacio o en zonas de brote epidémico.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2021
+:::
+::: {.timeline-title}
+Genoma humano verdaderamente completo (T2T)
+:::
+::: {.timeline-desc}
+El Consorcio T2T publica la primera secuencia verdaderamente completa del genoma humano, usando PacBio HiFi + Nanoporos. Las regiones irresolubles para Illumina finalmente se leen.
+:::
+:::
+
+:::
+
+## Video: La Historia Completa
+
+```{=html}
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/MvuYATh7Y74"
+  title="History of DNA Sequencing"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
+<p class="video-caption">La historia de la secuenciación del ADN — de Sanger a los nanoporos</p>
+```

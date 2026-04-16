@@ -1,0 +1,181 @@
+---
+title: "02 · Piroseucenciación 454"
+subtitle: "El primer método NGS en alcanzar el mercado comercial (2005)"
+---
+
+::: {.method-header}
+::: {.big-num}
+02
+:::
+::: {.info}
+**Piroseucenciación 454** · 2005 · Primer NGS comercial · ~700 pb por lectura · Detección de luz (PPi)
+:::
+:::
+
+## La Inspiración: Luciérnagas y Pirofosfato
+
+En 1985, los bioquímicos suecos **Pål Nyren y Arne Lundin** publicaron un procedimiento que medía la concentración de **pirofosfato inorgánico (PPi)** usando una cascada enzimática que emitía luz.
+
+::: {.callout-note}
+## 💡 La Conexión con la Luciérnaga
+La cascada enzimática usa **luciferasa de luciérnaga** — la misma enzima que hace brillar a las luciérnagas en el jardín. Cada nucleótido incorporado en el ADN produce un destello de luz. La bioluminiscencia que los niños persiguen en el jardín es también la que permitió descifrar el genoma humano.
+:::
+
+---
+
+## Historia
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.timeline-year}
+1985
+:::
+::: {.timeline-title}
+Nyren y Lundin: la cascada enzimática
+:::
+::: {.timeline-desc}
+Publican procedimiento que mide PPi usando ATP sulfurilasa y luciferasa de luciérnaga. Producción de luz proporcional a la concentración de PPi.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1986
+:::
+::: {.timeline-title}
+La revelación de Nyren
+:::
+::: {.timeline-desc}
+Nyren se da cuenta de que el PPi se produce naturalmente como subproducto de la síntesis de ADN. Por lo tanto, la técnica puede aplicarse a la secuenciación.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1993
+:::
+::: {.timeline-title}
+Primera prueba de concepto publicada
+:::
+::: {.timeline-desc}
+Con financiamiento limitado, Nyren publica la prueba de concepto. La mezcla incluye ADN molde + cebador + un dNTP individual + tres enzimas: ADN polimerasa, ATP sulfurilasa y luciferasa de luciérnaga.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1996
+:::
+::: {.timeline-title}
+15 bases secuenciadas
+:::
+::: {.timeline-desc}
+El laboratorio de Nyren demuestra secuenciación de hasta 15 bases usando un nucleótido "A" modificado para reducir la relación señal-ruido.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1998
+:::
+::: {.timeline-title}
+34 bases con apirasa
+:::
+::: {.timeline-desc}
+Añaden la enzima **apirasa**, que degrada los nucleótidos no incorporados, eliminando la necesidad de pasos de lavado constantes. Alcanzan 34 bases por lectura.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2005
+:::
+::: {.timeline-title}
+454 Life Sciences lanza el GS20 — $500,000 USD
+:::
+::: {.timeline-desc}
+Primer secuenciador NGS comercial. Marca el inicio oficial de la era de la secuenciación de nueva generación (NGS).
+:::
+:::
+
+:::
+
+---
+
+## ¿Cómo Funciona?
+
+Cuando la ADN polimerasa incorpora un dNTP en la cadena creciente, libera PPi que desencadena la cascada: **PPi → ATP → Luz**.
+
+### El Proceso Paso a Paso
+
+1. **Preparación** — El ADN molde se fija a una perla (bead) mediante biotina-estreptavidina y se amplifica por PCR en emulsión.
+2. **Carga en micropocillos** — Cada perla se carga en un pocillo individual. Un pocillo = una perla = una secuencia única.
+3. **Ciclo de dNTPs** — Los 4 dNTPs se añaden de forma secuencial (A, T, G, C), con lavado entre cada adición.
+4. **Flash de luz** — Si el dNTP se incorpora: PPi se libera → ATP sulfurilasa convierte PPi en ATP → luciferasa produce luz.
+5. **Registro por cámara** — Una cámara detecta el tiempo y ubicación de cada flash en la placa.
+6. **Sin geles** — La secuencia se registra nucleótido a nucleótido en tiempo real. No requiere electroforesis.
+
+::: {.callout-important}
+## ⚡ Ventaja clave: Sin geles
+Fue el **primer método de secuenciación totalmente automatizable** sin necesidad de electroforesis en gel.
+:::
+
+---
+
+## Limitaciones
+
+::: {.two-col}
+
+::: {.info-box .con}
+#### ❌ Homopolímeros
+Dificultades con regiones de **nucleótidos consecutivos repetidos** (ej. AAAAAAA). La cantidad de luz no escalaba linealmente con el número de incorporaciones, generando errores.
+:::
+
+::: {.info-box .con}
+#### ❌ Lecturas cortas
+~700 pares de bases por lectura. Mejor que la mayoría de NGS de su época, pero limitado comparado con PacBio (>10,000 pb).
+:::
+
+:::
+
+---
+
+## Impacto y Legado
+
+**El Genoma Neandertal (2006):** 454 colaboró con **Svante Pääbo** para secuenciar el primer millón de pares de bases del genoma Neandertal. El proyecto se completó en 2010, con contribución adicional de Illumina.
+
+| Hito | Año |
+|------|-----|
+| GS20 comercial | 2005 |
+| Primer millón de bases del Neandertal | 2006 |
+| Genoma Neandertal completo | 2010 |
+| Roche adquiere 454 | 2007 |
+| Roche cierra 454 | 2013 |
+
+---
+
+## Video: Piroseucenciación
+
+```{=html}
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qIoE9C3rTIQ"
+  title="Pyrosequencing Animation"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
+<p class="video-caption">Animación del proceso de piroseucenciación con la cascada enzimática PPi → ATP → Luz</p>
+```
+
+---
+
+## Resumen
+
+| Característica | Valor |
+|----------------|-------|
+| Año comercial | 2005 (GS20) |
+| Longitud de lectura | ~700 pb |
+| Precisión | Alta |
+| Paralelismo | Medio |
+| Requiere gel | No |
+| Debilidad | Homopolímeros, costo alto |

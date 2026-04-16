@@ -1,0 +1,181 @@
+---
+title: "05 · Secuenciación por Nanoporos"
+subtitle: "El método más reciente: portátil, en tiempo real, sin límite de lectura (~2015)"
+---
+
+::: {.method-header}
+::: {.big-num}
+05
+:::
+::: {.info}
+**Nanoporos (Oxford Nanopore Technologies)** · ~2015 · Portátil · Tiempo real · Sin PCR
+:::
+:::
+
+## ¿Qué es un Nanoporo?
+
+Un **nanoporo** es una proteína o lípido con un pequeño orificio en su centro a través del cual puede pasar el ADN. Cuando el ADN pasa mientras fluye una corriente eléctrica, **la perturbación de la corriente revela qué base está pasando**.
+
+El primer nanoporo usado para secuenciación fue la **α-hemolisina**, una toxina proteica de *Staphylococcus aureus*.
+
+::: {.callout-note}
+## 🦠 La toxina que secuencia ADN
+La α-hemolisina es una toxina que *S. aureus* usa para **perforar las membranas de células del huésped y matarlas**. Los investigadores la integraron en una membrana artificial y la convirtieron en un sensor de ADN de precisión molecular.
+:::
+
+---
+
+## Historia
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.timeline-year}
+1996
+:::
+::: {.timeline-title}
+Primer concepto — Deamer & Branton
+:::
+::: {.timeline-desc}
+David Deamer (UC Santa Cruz) y Daniel Branton (Harvard) demuestran que la corriente eléctrica en un nanoporo de α-hemolisina es perturbada diferente por purinas (A, G) vs. pirimidinas (T, C). El principio funciona, pero no discrimina las 4 bases individualmente.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2001
+:::
+::: {.timeline-title}
+Método limitado de secuenciación — Bayley
+:::
+::: {.timeline-desc}
+Hagan Bayley (Texas A&M) demuestra un método de secuenciación limitado: ancla un fragmento de ADN con bases desconocidas al poro y lo compara con sondas para identificar las bases por el grado de perturbación de corriente.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2005
+:::
+::: {.timeline-title}
+Resuelven el problema de velocidad
+:::
+::: {.timeline-desc}
+Bayley (ahora en Oxford) y el Instituto Scripps adicionan estructuras de "horquilla" (hairpin) que bloquean parcialmente el poro y **ralentizan el ADN** al rango de milisegundos por nucleótido — suficientemente lento para detectarlo.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+2005
+:::
+::: {.timeline-title}
+Fundación de Oxford Nanopore Technologies (ONT)
+:::
+::: {.timeline-desc}
+Bayley co-funda ONT para desarrollar y comercializar la tecnología. La empresa integra tecnologías de los laboratorios de Bayley, Deamer, Branton y otros.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+~2015
+:::
+::: {.timeline-title}
+MinION: primer secuenciador portátil disponible
+:::
+::: {.timeline-desc}
+ONT lanza el MinION al público. Un dispositivo del tamaño de una memoria USB que puede secuenciar ADN en cualquier lugar con una laptop.
+:::
+:::
+
+:::
+
+---
+
+## Los Dos Problemas Fundamentales
+
+::: {.two-col}
+
+::: {.info-box .con}
+#### ❌ Problema 1: Velocidad
+El ADN atraviesa el poro demasiado rápido (microsegundos por nucleótido) para detectarlo confiablemente.
+
+**Solución:** Estructuras hairpin + motor proteico (helicasa) que controla la velocidad a ~450 bases/segundo.
+:::
+
+::: {.info-box .con}
+#### ❌ Problema 2: Diferenciación
+Los primeros nanoporos solo distinguían purinas de pirimidinas, no las 4 bases individualmente.
+
+**Solución:** Modificaciones al nanoporo + modelos de **deep learning** que interpretan las señales de corriente en tiempo real.
+:::
+
+:::
+
+---
+
+## ¿Cómo Funciona?
+
+1. **Membrana sintética** con nanoporo separa dos cámaras con solución electrolítica.
+2. Se aplica voltaje → **corriente iónica** fluye a través del poro.
+3. El ADN entra al poro guiado por un **motor proteico (helicasa)** que controla la velocidad.
+4. Cada base **bloquea parcialmente el flujo iónico** con un patrón único.
+5. Los electrodos detectan los cambios de corriente con alta resolución temporal.
+6. **Basecalling** por redes neuronales traduce los patrones de señal en secuencia de bases en tiempo real.
+
+::: {.callout-important}
+## 🤖 IA en el laboratorio
+La precisión del nanoporo depende críticamente de los algoritmos de **basecalling** (redes neuronales). La precisión ha pasado de ~85% en las primeras versiones a >99% con los modelos actuales. La secuenciación por nanoporos es imposible sin deep learning.
+:::
+
+---
+
+## El MinION: Secuenciación en Cualquier Lugar
+
+| Característica | MinION |
+|----------------|--------|
+| Tamaño | ~10 cm × 3 cm |
+| Conexión | USB a laptop |
+| Costo (dispositivo) | ~$1,000 USD |
+
+**Usos en campo:**
+
+- 🦠 **Brotes de Ébola en África** — Secuenciación del virus en tiempo real en el área afectada
+- 🧊 **Antártida** — Microorganismos del suelo en condiciones extremas
+- 🚀 **Estación Espacial Internacional** — Primer secuenciador usado en el espacio (astronauta Kate Rubins, 2016)
+- 🌾 **Agricultura** — Detección de plagas en campo sin enviar muestras al laboratorio
+
+---
+
+## Video: Oxford Nanopore MinION
+
+```{=html}
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/E9-Rm5AoZGw"
+  title="Oxford Nanopore Technology - MinION"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
+<p class="video-caption">Oxford Nanopore Technologies — Cómo funciona el MinION y la secuenciación por nanoporos</p>
+```
+
+---
+
+## Resumen
+
+| Característica | Valor |
+|----------------|-------|
+| Año comercial | ~2015 (MinION) |
+| Longitud de lectura | Ilimitada* (miles a millones de bases) |
+| Precisión actual | >99% (modelos actuales de IA) |
+| Paralelismo | Alto |
+| Requiere amplificación | No |
+| Fortaleza | Portabilidad, tiempo real, lecturas ultra-largas |
+
+*Puede leer moléculas cromosómicas completas (millones de bases en una sola lectura).
+
+::: {.callout-tip}
+## 🧬 ARN directo
+Una ventaja única: puede **secuenciar ARN directamente**, sin convertirlo a ADN. Esto permite detectar modificaciones de ARN que se perderían en la conversión, abriendo nuevas puertas en epigenómica.
+:::

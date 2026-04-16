@@ -1,0 +1,206 @@
+---
+title: "01 · Secuenciación de Sanger"
+subtitle: "El método fundacional de la secuenciación del ADN (1977)"
+---
+
+::: {.method-header}
+::: {.big-num}
+01
+:::
+::: {.info}
+**Secuenciación de Sanger** · 1977 · Gold standard · Alta precisión · ~1,000 pb por lectura
+:::
+:::
+
+## Fred Sanger: El Gran Decodificador de la Biología
+
+Fred Sanger fue el gran decodificador de la biología. Bioquímico británico que pasó toda su carrera en la Universidad de Cambridge, Sanger es el único científico que ha ganado **dos Premios Nobel en el mismo campo**:
+
+| Año | Premio | Logro |
+|-----|--------|-------|
+| **1958** | Nobel de Química | Secuencia de aminoácidos de proteínas (insulina) |
+| **1980** | Nobel de Química (compartido) | Métodos para secuenciar ADN |
+
+::: {.callout-tip}
+## 🏅 Dato poco conocido
+Sanger rechazó el título de nobleza de "Sir Frederick Sanger". Prefería que lo llamaran simplemente **"Fred"**. Tampoco patentó ninguno de sus métodos, permitiendo que toda la comunidad científica los usara libremente.
+:::
+
+---
+
+## Ray Wu: El Pionero Olvidado
+
+Aunque hoy se asume que Sanger fue el primero en secuenciar ADN, **eso no es del todo correcto**. Fue superado por bioquímicos de Cornell en dos ocasiones:
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.timeline-year}
+1965
+:::
+::: {.timeline-title}
+Robert Holley supera a Sanger en ARN
+:::
+::: {.timeline-desc}
+El bioquímico de Cornell reportó la secuencia completa de 77 nucleótidos del ARN de transferencia de alanina, superando a Sanger, quien también buscaba ser el primero en secuenciar ARN.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1970
+:::
+::: {.timeline-title}
+Ray Wu: primer método de secuenciación de ADN
+:::
+::: {.timeline-desc}
+El bioquímico de Cornell publicó un método para leer secciones específicas de dos genomas de fagos bacterianos (λ y bacteriófago 186). Fue el primero en usar cebadores (*primers*) como punto de partida — un concepto que Sanger adoptaría después.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1974
+:::
+::: {.timeline-title}
+Wu refina el primer método general
+:::
+::: {.timeline-desc}
+El laboratorio de Wu refinó su técnica en el primer método general de secuenciación de ADN. Era extremadamente laborioso (usaba 2D-homochromatografía) y no logró adoptarse ampliamente.
+:::
+:::
+
+:::
+
+Ray Wu murió en 2008 sin recibir el Nobel. El debate sobre si mereció compartir el premio de 1980 sigue vivo en la comunidad científica.
+
+---
+
+## El Método Plus-Minus (Sanger & Coulson, 1975)
+
+La mezcla inicial contenía: ADN molde + ADN polimerasa + cebador + tres dNTPs normales + **un dNTP radiolabelado**. Las bajas concentraciones hacían que la síntesis se detuviera en posiciones aleatorias, generando **fragmentos de ADN de longitudes variables**.
+
+### Las 8 Reacciones
+
+1. **Purificación** — Los fragmentos se purifican y usan como moldes.
+2. **Sistema Minus (−A, −C, −G, −T)** — Cada fragmento se incuba con 3 de los 4 dNTPs. La polimerasa extiende hasta que necesita el nucleótido faltante y se detiene.
+3. **Sistema Plus (+A, +C, +G, +T)** — Usa T4 ADN polimerasa (actividad exonucleasa 3'→5'). Degrada el fragmento hasta el dNTP presente en el tubo. Todos terminan en ese nucleótido.
+4. **Electroforesis en gel** — 8 conjuntos separados por tamaño.
+5. **Autorradiografía** — Fragmentos radiactivos detectados en film de rayos X.
+6. **Lectura manual** — Un científico traduce las bandas en secuencia de ADN.
+
+En 1977, Sanger secuenció el primer genoma completo con este método: el bacteriófago **φX174 (PhiX)** con **5,386 nucleótidos**.
+
+::: {.callout-note}
+## 🦠 PhiX174: Un virus de heces
+El bacteriófago φX174 infecta a *E. coli*, bacteria del tracto digestivo. El primer hito de la genómica fue, técnicamente, la secuenciación de un virus de intestino.
+:::
+
+---
+
+## Terminación de Cadena: El Método Definitivo (1977)
+
+En el mismo año que secuenció PhiX174, Sanger desarrolló un método **más simple y elegante**: la terminación de cadena con **ddNTPs**.
+
+### dNTP vs. ddNTP
+
+::: {.two-col}
+
+::: {.info-box .pro}
+#### ✅ dNTP (normal)
+Tiene grupo **–OH** en el carbono 3'. La ADN polimerasa puede añadir el siguiente nucleótido. La síntesis **continúa**.
+:::
+
+::: {.info-box .con}
+#### ❌ ddNTP (terminador)
+**Sin** grupo **–OH** en el carbono 3'. La reacción necesaria para añadir otro nucleótido es imposible. La síntesis se **termina permanentemente**.
+:::
+
+:::
+
+### Proceso
+
+1. ADN molde + cebador + ADN polimerasa + 4 dNTPs.
+2. Se añade **ddNTP radiolabelado** de un solo tipo (ej. ddATP) en pequeña cantidad.
+3. Solo una fracción de los fragmentos se detiene en cada ocurrencia de esa base.
+4. **4 reacciones paralelas**: ddATP, ddCTP, ddGTP, ddTTP.
+5. Fragmentos separados por tamaño en gel → autorradiografía → se lee la secuencia.
+
+### Maxam-Gilbert vs. Sanger
+
+El método rival de **Maxam y Gilbert** (escisión química del ADN) dominó hasta los años 80. La terminación de cadena de Sanger lo superó porque espeja el proceso natural de copiado del ADN — considerado más *"elegante"* y técnicamente superior.
+
+---
+
+## Automatización (1986)
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.timeline-year}
+1986
+:::
+::: {.timeline-title}
+Hood reemplaza radiactividad con fluorescencia
+:::
+::: {.timeline-desc}
+El laboratorio de Leroy Hood (Caltech) sustituyó los ddNTPs radiomarcados con nucleótidos fluorescentes de 4 colores. Una computadora detecta los colores al pasar por un rayo láser. La secuencia se lee automáticamente.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1986
+:::
+::: {.timeline-title}
+ABI 370A — Primer secuenciador comercial automático · $92,500
+:::
+::: {.timeline-desc}
+Producido por Applied Biosystems (ABS), co-fundada por Hood. Como Sanger nunca patentó su método, otras compañías podían competir libremente.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-year}
+1988+
+:::
+::: {.timeline-title}
+Perkin-Elmer 3700 y ABS 3500
+:::
+::: {.timeline-desc}
+El Perkin-Elmer 3700 fue usado por el HGP y Celera Genomics. El ABS 3500 Genetic Analyzer aún se encuentra en muchos laboratorios hoy en día.
+:::
+:::
+
+:::
+
+---
+
+## Video: Sanger Sequencing
+
+```{=html}
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/e2G5zx-OJIw"
+  title="Sanger Sequencing Animation"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
+<p class="video-caption">Animación del método de Sanger — cadena de terminación con ddNTPs</p>
+```
+
+---
+
+## Resumen
+
+| Característica | Valor |
+|----------------|-------|
+| Año comercial | 1986 (ABI 370A) |
+| Longitud de lectura | ~700–1,000 pb |
+| Precisión | Muy alta (>99.9%) |
+| Paralelismo | Bajo |
+| Uso principal | Verificación, diagnóstico clínico, secuencias cortas |
+
+::: {.callout-important}
+## 🏆 El Gold Standard
+Sanger sequencing sigue siendo el **estándar de oro de precisión** para validar resultados, secuenciar fragmentos específicos y en diagnóstico clínico, aunque los métodos NGS lo han reemplazado para genómica de gran escala.
+:::

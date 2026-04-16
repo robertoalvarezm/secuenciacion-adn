@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Secuenciación del ADN"
+  description: "Una guía visual completa: de Sanger a los nanoporos"
+  favicon: ""
+  navbar:
+    logo: ""
+    title: "🧬 Secuenciación del ADN"
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: contexto.qmd
+        text: Contexto
+      - text: "Métodos"
+        menu:
+          - href: sanger.qmd
+            text: "01 · Sanger"
+          - href: pirosecuenciacion.qmd
+            text: "02 · Piroseucenciación 454"
+          - href: illumina.qmd
+            text: "03 · Illumina (SBS)"
+          - href: pacbio.qmd
+            text: "04 · PacBio SMRT"
+          - href: nanoporos.qmd
+            text: "05 · Nanoporos (ONT)"
+      - href: comparacion.qmd
+        text: Comparación
+      - href: curiosidades.qmd
+        text: "🔬 Curiosidades"
+      - href: referencias.qmd
+        text: Referencias
+    right:
+      - icon: github
+        href: https://github.com
+
+  sidebar: false
+
+  page-footer:
+    left: "Basado en: Asimov Press & Evan DeTurk (2026)"
+    right: "Historia de la Secuenciación del ADN"
+
+format:
+  html:
+    theme: [cosmo, styles.css]
+    toc: true
+    toc-depth: 3
+    toc-title: "En esta página"
+    code-fold: true
+    number-sections: false
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+    html-math-method: katex
+    grid:
+      sidebar-width: 0px
+      body-width: 900px
+      margin-width: 250px

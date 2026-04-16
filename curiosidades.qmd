@@ -1,0 +1,105 @@
+---
+title: "🔬 10 Datos Curiosos y Rarísimos"
+subtitle: "Lo que los libros de texto no cuentan sobre la secuenciación del ADN"
+---
+
+::: {.callout-tip}
+## 💡 Una advertencia
+Estos datos son 100% verídicos, documentados en la literatura científica e histórica.
+:::
+
+---
+
+::: {.curiosity-card}
+::: {.num}
+01
+:::
+### Fred Sanger rechazó convertirse en "Sir"
+Le ofrecieron el título de nobleza de "Sir Frederick Sanger". Lo rechazó. Prefería que lo llamaran simplemente **"Fred"**. Fue el científico más modesto con dos Premios Nobel de la historia.
+:::
+
+::: {.curiosity-card}
+::: {.num}
+02
+:::
+### El primer genoma secuenciado era de un virus de heces
+En 1977, Sanger secuenció el bacteriófago φX174 (PhiX). Este virus infecta a *E. coli* — bacteria que habita en el tracto digestivo humano. El hito que Clinton llamó "el mapa más maravilloso" fue la secuenciación de un virus de intestino.
+:::
+
+::: {.curiosity-card}
+::: {.num}
+03
+:::
+### Craig Venter secuenció principalmente su propio ADN como "el genoma humano"
+El genoma "humano" publicado por Celera en 2001 era, en su mayor parte, el ADN del propio Craig Venter. Se incluyeron muestras de cinco donadores anónimos, pero la secuencia de Venter fue dominante. Básicamente publicó su propio manual de instrucciones genético como representante de la humanidad entera.
+:::
+
+::: {.curiosity-card}
+::: {.num}
+04
+:::
+### Las luciérnagas permiten leer el ADN
+La piroseucenciación 454 usa **luciferasa de luciérnaga** — exactamente la misma enzima que produce el destello luminoso de los insectos en los jardines de verano. Cada nucleótido incorporado = un destello de luciérnaga. La bioluminiscencia que los niños persiguen en el jardín es también la que permitió descifrar el genoma humano.
+:::
+
+::: {.curiosity-card}
+::: {.num}
+05
+:::
+### Los nanoporos usan una toxina bacteriana asesina como sensor
+La α-hemolisina, primer nanoporo usado para secuenciación de ADN, es una toxina que *Staphylococcus aureus* usa para **perforar la membrana de células del huésped y matarlas**. Los investigadores literalmente tomaron prestada esta arma biológica y la convirtieron en un sensor de ADN de precisión molecular.
+:::
+
+::: {.curiosity-card}
+::: {.num}
+06
+:::
+### Illumina rechazó ser comprada por Roche y cuadruplicó su valor
+En 2012, Roche hizo una oferta hostil de compra a Illumina por **$6.7 mil millones**. Illumina la rechazó. Cuatro años después, Illumina valía más de **$20 mil millones**. Roche, entretanto, había cerrado 454 en 2013 por no poder competir con Illumina. Fue quizás la peor semana corporativa en la historia de la genómica — para Roche.
+:::
+
+::: {.curiosity-card}
+::: {.num}
+07
+:::
+### La "debilidad" de Illumina la convirtió en la mejor herramienta para ADN de Neandertales
+Illumina produce lecturas *cortas* — una limitación técnica. Pero el ADN antiguo (de huesos de 40,000 años) se **degrada naturalmente en fragmentos cortos**. Lo que era una debilidad técnica se convirtió en la mayor fortaleza para secuenciar el pasado de la humanidad.
+:::
+
+::: {.curiosity-card}
+::: {.num}
+08
+:::
+### PacBio hace que la ADN polimerasa corra en círculos — literalmente
+El template SMRTbell convierte el ADN en una molécula circular. La ADN polimerasa literalmente **corre en círculos**, leyendo la misma secuencia una y otra vez (rolling-circle amplification). El consenso de múltiples pasadas elimina los errores. La repetición compulsiva como estrategia de calidad.
+:::
+
+::: {.curiosity-card}
+::: {.num}
+09
+:::
+### El primer secuenciador usado en el espacio era del tamaño de una USB
+En agosto de 2016, la astronauta **Kate Rubins** secuenció ADN por primera vez en microgravedad usando un MinION de Oxford Nanopore a bordo de la Estación Espacial Internacional. Se esperaba que la microgravedad causara problemas — no fue así. El MinION funcionó perfectamente a 400 km de la Tierra.
+:::
+
+::: {.curiosity-card}
+::: {.num}
+10
+:::
+### Ray Wu murió sin recibir el Nobel por trabajo que Sanger hizo después de él
+En 1970, Ray Wu (Cornell) publicó el primer método de secuenciación de ADN usando primers — un concepto que Sanger adoptaría posteriormente. Wu usó cebadores para leer ADN *antes* que Sanger. Sin embargo, el Nobel de 1980 fue solo para Sanger, Gilbert y Berg. Wu murió en 2008 sin reconocimiento equivalente. En la ciencia, el crédito no siempre sigue al trabajo.
+:::
+
+---
+
+## ¿Sabías que...?
+
+::: {.callout-note}
+## 🧬 El genoma humano "completo" no se completó hasta 2021
+El Proyecto Genoma Humano de 2001 dejó sin secuenciar aproximadamente el **8% del genoma** — las regiones centroméricas y teloméricas, altamente repetitivas. No fue hasta 2021 que el Consorcio T2T, usando PacBio HiFi y nanoporos, publicó la primera secuencia **verdaderamente completa** del genoma humano. Nos llevó 20 años adicionales resolver el 8% restante.
+:::
+
+::: {.callout-tip}
+## 💰 Sanger nunca ganó un centavo de su método más famoso
+Fred Sanger nunca patentó la terminación de cadena ni ninguno de sus métodos. Esto permitió que Applied Biosystems, Perkin-Elmer y decenas de otras empresas desarrollaran secuenciadores comerciales libremente. La decisión de no patentar fue probablemente una de las más valiosas para la ciencia en el siglo XX.
+:::
