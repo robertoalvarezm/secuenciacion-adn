@@ -1,5 +1,5 @@
 ---
-title: "02 · Piroseucenciación 454"
+title: "02 · Pirosecuenciación 454"
 subtitle: "El primer método NGS en alcanzar el mercado comercial (2005)"
 ---
 
@@ -157,15 +157,10 @@ Dificultades con regiones de **nucleótidos consecutivos repetidos** (ej. AAAAAA
 
 ## Video: Piroseucenciación
 
-```{=html}
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/qIoE9C3rTIQ"
-  title="Pyrosequencing Animation"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wY8to-_zAEo?si=BPMtXvDWvtWs12--" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p class="video-caption">Animación del proceso de piroseucenciación con la cascada enzimática PPi → ATP → Luz</p>
-```
+
 
 ---
 
